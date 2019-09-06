@@ -219,7 +219,6 @@
 
 
 window.marker = null;
-<script type="text/javascript">
     //创建和初始化地图函数：
     function initMap(longitude, latitude){
         createMap(longitude, latitude);//创建地图
