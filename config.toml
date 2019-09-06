@@ -83,8 +83,8 @@ DefaultContentLanguage = "en"
         linkedin= "https://www.linkedin.com/"
         dribbble= "https://dribbble.com/"
         instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
+        mapLatitude = "22.601617"
+        mapLongitude= "114.011543"
         mapMarker   = "images/marker.png"
 
     # Call to Action Section on About Page
