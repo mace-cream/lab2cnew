@@ -1,19 +1,20 @@
 stages:
   - build
   - deploy
-cache:
-  paths:
-  - public
 build_job:
   stage: build
   tags:
     - website
   script:
     - hugo
-
+  artifacts:
+    paths:
+      - public/
 deploy_job:
   stage: deploy
   tags:
     - website
+  dependencies:
+    - build_job
   script:
     - mv public/* /var/www/html/lab2cnew/
