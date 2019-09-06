@@ -12,3 +12,6 @@ successful, the build artifact will be deployed on production. To check whether 
 the build log, you can
 open the [pipelines](http://10.8.4.170:88/zhaofeng-shu33/lab2cnew/pipelines) web page.
  
+## How to format our published article
+First we should make a bibtex database.
+Then use `pybtex` to generate markdown file.
