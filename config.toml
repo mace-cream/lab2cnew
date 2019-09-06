@@ -115,8 +115,8 @@ DefaultContentLanguage = "en"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "We love to make brands grow"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        heading = "Information,Intelligengt,Integration ,Interaction Lab (4I Lab)"
+        description = "The research activities in the lab are centered at the theory and techniques for learning from high-dimensional heterogeneous sensory data, and translational technologies that enable IoT/CPS applications in a vast plurality of scenarios in smart buildings and smart cities"
         button  = true
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
