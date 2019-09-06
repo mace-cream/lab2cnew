@@ -1,5 +1,17 @@
+stages:
+  - build
+  - deploy
+
 build_job:
+  stage: build
   tags:
     - website
   script:
-    - echo "hello world"
+    - hugo
+
+deploy_job:
+  stage: deploy
+  tags:
+    - website
+  script:
+    - mv public/* /var/www/html/lab2cnew/
