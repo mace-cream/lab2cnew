@@ -1,3 +1,5 @@
 build_job:
+  tags:
+    - website
   script:
     - echo "hello world"
