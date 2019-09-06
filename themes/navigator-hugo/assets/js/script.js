@@ -320,10 +320,6 @@ function initialize() {
     initMap(longitude, latitude);//创建和初始化地图
 }
 
-var map = $('#map');
-if(map.length != 0){
-    google.maps.event.addDomListener(window, 'load', initialize);
-}
 
 
 
