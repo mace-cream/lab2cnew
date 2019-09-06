@@ -17,4 +17,4 @@ deploy_job:
   dependencies:
     - build_job
   script:
-    - mv public/* /var/www/html/lab2cnew/
+    - mv -f public/* /var/www/html/lab2cnew/
