@@ -10,5 +10,5 @@ Check directory `content/blog`, add new posts.
 On your commit to this repository, gitlab will automatically build the website source code. If the build is 
 successful, the build artifact will be deployed on production. To check whether the build is successful and
 the build log, you can
-open the [pipelines](./pipelines) web page.
+open the [pipelines](http://10.8.4.170:88/zhaofeng-shu33/lab2cnew/pipelines) web page.
  
