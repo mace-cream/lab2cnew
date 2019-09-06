@@ -145,7 +145,7 @@ DefaultContentLanguage = "en"
         address = "Building C2 15th floor, i-Park <br> Nanshan District, Shenzhen , Mainland China"
         phone   = "(86) 9283 2617"
         fax     = "+61 3827 3590"
-        mapLatitude = "22.601709",
+        mapLatitude = "22.601709"
         mapLongitude= "114.01158"
         mapMarker   = "images/marker.png"
 
