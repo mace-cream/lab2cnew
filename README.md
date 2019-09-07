@@ -1,5 +1,8 @@
 # How to maintain this website
 
+This website is based on Hugo static site generator.
+It is deployed to [lab2cnew](http://10.8.4.170/lab2cnew/).
+
 ## How to edit our team
 Check directory `data/en/team.yml`, make sure your photo is 670X670 pixels.
 
