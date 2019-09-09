@@ -1,6 +1,6 @@
 ---
-title: Are You Doing the Right Way
-date: 2018-09-09
+title: Gotcha
+date: 2018-07-08T12:18:46+06:00
 image: images/blog/Gotcha.jpg
 author: Admin
 ---
