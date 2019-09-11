@@ -1,7 +1,7 @@
 ---
 title: Trajectory Data Mining
 date: 2019-09-09
-image: images/blog/trac-mat-plot.png
+image: images/blog/trac-mining.jpg
 author: Admin
 ---
 
