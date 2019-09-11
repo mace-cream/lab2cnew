@@ -1,7 +1,7 @@
 ---
 title: Fine-grained Urban Air Quality Sensing with Mobile Sensing Systems
 date: 2019-09-09
-image: images/blog/post-3.jpg
+image: images/blog/air-1.jpg
 author: Admin
 ---
 
