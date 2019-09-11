@@ -1,7 +1,7 @@
 ---
 title: Social Game
 date: 2018-07-07T17:04:41+06:00
-image: images/blog/post-3.jpg
+image: images/blog/socialgame.jpg
 author: Admin
 ---
 
