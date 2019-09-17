@@ -9,7 +9,7 @@ author: Admin
 
 Buildings consume about 40% of the total energy in the US and the cost of a building during the operation period compose more than 80% of its total cost over the whole life-cycle span. Therefore, it is vital to reduce the building operation energy consumption. In current commercial building, there are two kinds of control methods. One is the manually control system. As a matter of fact, the majority of electricity users do not need to pay for the corresponding fees, thus, the real payers cannot manage to persuade them into saving energy. Another is Building Automation and Control System.
 
-![Traditional Building Control](../../../images/blog/soc-trad.jpg)
+![Traditional Building Control](../../../images/blog/soc-trad.jpg)*Fig. 1: Traditional Building Control*
 The approach control and reduce energy by estimating user presences. However, this approach has many problems. Estimation can be inaccurate due to preference changes or non-response. Separation of users and the system separate their usage goals.
 
 In order to solve the above problems, we proposes a social-technical system. We get user involved in the process of energy conservation by energy consumption feedback. Besides sensors, user gives a user preference estimation to control system based on his feeling about energy usage and environment. The control system combines the sensory data and user preference estimation to make the control decision.
