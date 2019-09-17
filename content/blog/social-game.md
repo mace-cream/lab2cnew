@@ -13,7 +13,7 @@ Buildings consume about 40% of the total energy in the US and the cost of a buil
 The approach control and reduce energy by estimating user presences. However, this approach has many problems. Estimation can be inaccurate due to preference changes or non-response. Separation of users and the system separate their usage goals.
 
 In order to solve the above problems, we proposes a social-technical system. We get user involved in the process of energy conservation by energy consumption feedback. Besides sensors, user gives a user preference estimation to control system based on his feeling about energy usage and environment. The control system combines the sensory data and user preference estimation to make the control decision.
-![Traditional Building Control](../../../images/blog/soc-infr.jpg)
+![Social Game Rationale](../../../images/blog/soc-infr.jpg)
 
 Social feedback allows user direct influence of systems and aligns goal of users and the system.The game is played between the system and the users. The system will announce a reward scheme for individual user or a group of users if they meet some energy saving requirement, and the users will make the decision whether they participate the game. Below is a figure to illustrate the system logics, where the combination of the game rule maker, the referee, and the reward dispenser is the system.
 ![Logics of the Social Game](../../../images/blog/soc-infr.jpg)
