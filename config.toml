@@ -106,7 +106,7 @@ DefaultContentLanguage = "en"
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerDescription = "4I Lab is an innovative laboratory in Tsinghua-Berkley Shenzhen Institute"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
