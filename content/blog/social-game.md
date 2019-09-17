@@ -16,7 +16,8 @@ In order to solve the above problems, we proposes a social-technical system. We 
 ![Social Game Rationale](../../../images/blog/soc-infr.jpg)
 
 Social feedback allows user direct influence of systems and aligns goal of users and the system.The game is played between the system and the users. The system will announce a reward scheme for individual user or a group of users if they meet some energy saving requirement, and the users will make the decision whether they participate the game. Below is a figure to illustrate the system logics, where the combination of the game rule maker, the referee, and the reward dispenser is the system.
-![Logics of the Social Game](../../../images/blog/soc-infr.jpg)
+![Logics of the Social Game](../../../images/blog/soc-sys.jpg)
+
 There are two types of game of interests.
 
 - Individual Game: 
