@@ -4,4 +4,4 @@ date: 2018-07-07T14:53:13+06:00
 draft: false
 ---
 
-My content goes here
+Please copy our lab's publication markdown list here.

@@ -167,8 +167,8 @@ DefaultContentLanguage = "en"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "service"
-        url     = "service"
+        name    = "publication"
+        url     = "publication"
         weight  = 3
     [[menu.nav]]
         name    = "portfolio"
@@ -186,15 +186,15 @@ DefaultContentLanguage = "en"
     # Footer Service Menu
     [[menu.service]]
         name    = "graphicdesign"
-        url     = "service"
+        url     = "publication"
         weight  = 1
     [[menu.service]]
         name    = "webdesign"
-        url     = "service"
+        url     = "publication"
         weight  = 2
     [[menu.service]]
         name    = "webdevelopment"
-        url     = "service"
+        url     = "publication"
         weight  = 3
 
     # Footer Quick links Menu
