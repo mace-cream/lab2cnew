@@ -1,12 +1,7 @@
-{{ $data := index .Site.Data .Site.Language.Lang }}
-{{ with $data.service }}
-    {{ if .enable }}
     {{ "<!-- Service Section Start -->" | safeHTML }}
     <section class="service-list section bg-gray">
         <div class="container">
-            {{ .Content }}
+            {{ .Title }}
         </div>
     </section>
     {{ "<!-- Service Section Start -->" | safeHTML }}
-    {{ end }}
-{{ end }}
