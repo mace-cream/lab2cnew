@@ -1,7 +1,7 @@
 ---
 title: The Transferability Problem
 date: 2019-09-19
-image: images/blog/
+image: images/blog/tl.jpg
 author: Admin
 ---
 
