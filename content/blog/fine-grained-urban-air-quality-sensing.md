@@ -12,8 +12,8 @@ The surveillance of air pollution is becoming a highly concerned issue for city 
 - predicting pollution level at unobserved positions, using scene-specific machine learning methods;
 - investigating the pollution sources and causes with information metric. At present, real-world experiments have been deployed in several cities in China, helping with local air quality monitoring and government.
 
-![Air 1](images/blog/air-1.jpg)
-![Air 2](images/blog/air-2.jpg)
-![Air 3](images/blog/air-3.jpg)
-![Air 4](images/blog/air-4.jpg)
-![Air 5](images/blog/air-5.jpg)
+![Air 1](../../../images/blog/air-1.jpg)
+![Air 2](../../../images/blog/air-2.jpg)
+![Air 3](../../../images/blog/air-3.jpg)
+![Air 4](../../../images/blog/air-4.jpg)
+![Air 5](../../../images/blog/air-5.jpg)
