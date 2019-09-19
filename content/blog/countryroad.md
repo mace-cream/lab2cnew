@@ -17,4 +17,4 @@ We are now building the 2015 version of CountryRoad which would incorporate mult
 *Fig.2 The User Statistics of CoutryRoad in 2014 Chinese New Year period.*
 
 ![The Deployment Performance](../../../images/blog/countryroad_result.png)
-*Fig.3 The Deployment Performance*
+_Fig.3 The Deployment Performance_
