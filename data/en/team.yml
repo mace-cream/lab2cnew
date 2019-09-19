@@ -14,32 +14,171 @@ member  :
    # gplusURL      : https://plus.google.com/
    # dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+  - image         : images/team/liuxinyu.jpg
+    name          : Xinyu Liu
+    designation   : Ph.D Candidate
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Mobile Sensing System and Data Calibration
+      # facebookURL   : https://www.facebook.com/
+      # twitterURL    : https://twitter.com/
+      # gplusURL      : https://plus.google.com/
+      # dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+  - image         : images/team/zhoutian.png
+    name          : Tian Zhou
+    designation   : Ph.D Student
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Mobile and Ubiquitous Computing
+      # facebookURL   : https://www.facebook.com/
+      # twitterURL    : https://twitter.com/
+      # gplusURL      : https://plus.google.com/
+      # dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+  - image         : images/team/marui.jpg
+    name          : Rui Ma
+    designation   : Ph.D Student
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Environment Big Data
+      # facebookURL   : https://www.facebook.com/
+      # twitterURL    : https://twitter.com/
+      # gplusURL      : https://plus.google.com/
+      # dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/lianjing.jpg
+    name          : Jing Lian
+    designation   : Ph.D Student
+    description   : >
+      Trajectory Data Mining
+
+  - image         : images/team/yuqing.png
+    name          : Yuqing Gao
+    designation   : Ph.D Student
+    description   : >
+      TBD
+
+  - image         : images/team/amo.jpg
+    name          : Kwemena Amo-Dadey
+    designation   : Ph.D Student
+    description   : >
+      TBD
+
+  - image         : images/team/mafei.jpg
+    name          : Fei Ma
+    designation   : Ph.D Student
+    description   : >
+      Deep Learning and Social Computing
+
+  - image         : images/team/mingyang.jpg
+    name          : Mingyang Li
+    designation   : Ph.D Student
+    description   : >
+      Adversarial Examples, Anomaly Detection
+
+  - image         : images/team/zhaofeng.png
+    name          : Feng Zhao
+    designation   : Ph.D Student
+    description   : >
+      Clustering Algorithm and Information Clustering
+
+  - image         : images/team/xinyi.jpg
+    name          : Xinyi Tong
+    designation   : Ph.D Student
+    description   : >
+      Machine Learning Theory
+
+  - image         : images/team/zhiyuan.jpg
+    name          : Zhiyuan Wu
+    designation   : Ph.D Student
+    description   : >
+      Environment Big Data
+
+  - image         : images/team/guodong.jpg
+    name          : Guodong Li
+    designation   : Ph.D Student
+    description   : >
+      Sensible City
+
+#phd over
+#master begin
+  - image         : images/team/zhangyue.jpg
+    name          : Yue Zhang
+    designation   : Master
+    description   : >
+      Indoor Vibration
+
+  - image         : images/team/wuxiangyu.jpg
+    name          : Xiangyu Wu
+    designation   : Master Student
+    description   : >
+      Environmental Big Data
+
+  - image         : images/team/xietianwen.jpg
+    name          : Tianwen Xie
+    designation   : Master Student
+    description   : >
+      Natural Language Processing
+
+  - image         : images/team/qianjin.jpeg
+    name          : Qianjin Du
+    designation   : Master Student
+    description   : >
+      Natural Language Processing
+
+  - image         : images/team/lushi.jpg
+    name          : Shi Lu
+    designation   : Master Student
+    description   : >
+      Generative Adversarial Networks
+
+  - image         : images/team/hanling.png
+    name          : Hanling Wang
+    designation   : Master Student
+    description   : >
+      Image Interpretion Based on Small Samples
+
+  - image         : images/team/zhangwei.jpg
+    name          : Wei Zhang
+    designation   : Master Student
+    description   : >
+      Affective Computing
+
+  - image         : images/team/Shivaranjani.jpg
+    name          : Shivaranjani D
+    designation   : Master Student
+    description   : >
+      Effective Computing
+
+  - image         : images/team/weijia.jpg
+    name          : Weijia Feng
+    designation   : Master Student
+    description   : >
+      Natural Language Processing and Text Comprehension
+
+  - image         : images/team/jielian.jpg
+    name          : Jielian Huang
+    designation   : Master Student
+    description   : >
+      Urban Computing
+
+  - image         : images/team/sunwangbin.jpg
+    name          : Wangbin Sun
+    designation   : Master Student
+    description   : >
+      Multimodal Learning and Affective Computing
+
+  - image         : images/team/yihua.jpg
+    name          : Yihua Liang
+    designation   : Master Student
+    description   : >
+      Affective Computing
+
+  - image         : images/team/liulu.jpg
+    name          : Lu Liu
+    designation   : Master Student
+    description   : >
+      Natural Language Processing
+
+
+
+
+
