@@ -15,4 +15,4 @@ Having accumulated large amount of indoor air quality data under different circu
 *Fig.1 The PiMi System Architecture*
 
 ### The Project Website
-![User Stats](../../../images/blog/pimi-interface.jpg)
+![User Stats](../../../images/blog/pimi-portal.jpg)
