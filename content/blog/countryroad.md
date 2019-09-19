@@ -12,9 +12,7 @@ We are now building the 2015 version of CountryRoad which would incorporate mult
 
 ![The CountryRoad APP](../../../images/blog/countryroad_user_stat.jpg)
 *Fig.1 The CountryRoad APP*
-
 ![The User Statistics of CoutryRoad in 2014 Chinese New Year period.](../../../images/blog/countryroad_app.jpg)
 *Fig.2 The User Statistics of CoutryRoad in 2014 Chinese New Year period.*
-
 ![The Deployment Performance](../../../images/blog/countryroad_result.png)
 *Fig.3 The Deployment Performance*
