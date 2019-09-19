@@ -11,3 +11,6 @@ With the deployment of ubiquitous sensors, human or vehicle trajectories obtaine
 - Discovering how transportation network companies like Didi and Uber influence taxi industry;
 - Utilizing taxi trip data for customized bus service area design;
 - Partitioning city regions while extracting movement patterns to understand urban mobility.
+
+![Traditional Building Control](../../../images/blog/trac-mining-inner.jpg)
+![Traditional Building Control](../../../images/blog/trac-mat-plot.png)
