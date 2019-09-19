@@ -15,4 +15,4 @@ However, there lacks an efficient and theoretically meaningful way to determinin
 In our research, we developed a transferability metric using concepts from statistics and local information geometry. Experiments on both image-based 3D scene understanding tasks and NLP tasks showed that our metric not only correctly characterizes transfer performance, it is also highly effective in practice for neural network model selection. Based on this result, we are currently developing a multi-task curriculum learning algorithm that optimizes the order in which different tasks should be learned, and the direction of knowledge transfer to reduce the learning cost of a task collection.
 
 ![Figure: The task transferability problem](../../../images/blog/tl-cifar-100.png)
-*Fig. 2: The task transferability problem*
+*Fig.2: The task transferability problem*
