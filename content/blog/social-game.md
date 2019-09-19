@@ -30,6 +30,9 @@ This type of game deals with the personal electricity consumption, aka the cubic
 This type of game deals with the shared energy bill, such like AC, heating, ventilation, lighting, etc. The occupancy of the shared room should be monitored so as to map the energy bill to all the occupants in the space. Due to different comfort level and personal preference for temperature and lighting condition, the reward from host to the group users might not be evenly distributed users in the space. The game need to develop a mechanism that stimulate the collaborations amongst the users to reach a consensus on the temperature setup and lighting scheme that reduce the overall energy cost.
 The following picture shows our system as well as the deployment situation. The backbone of the entire system is the local area network. It serves as a basis for different devices to communicate with different protocols. Four subsystems are connected to the LAN, that is, the lighting subsystem, the air conditioning subsystem, the sensing subsystem and the smart meter subsystem. The smart meter subsystem focuses on individual behavior monitoring. . It’s a wireless smart meter network that collects real-time energy consumption information and sends the data back to our server.
 
+![Block Diagram of the Social Game System](../../../images/blog/soc-blk.jpg)
+*Fig.4 Block Diagram of the Social Game System.*
+
 ### Testbeds
 
 ![Rohm](../../../images/blog/soc-rohm.jpg) ![Cory](../../../images/blog/soc-cory.jpg)
