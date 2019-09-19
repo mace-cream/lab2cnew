@@ -19,5 +19,5 @@ The system is currently deployed on 10 electric taxi cabs in the city of Shenzhe
 
 
 ### The Project Website
-(../../../images/blog/gotcha-web.jpg)
+![GotCha Web](../../../images/blog/gotcha-web.jpg)
 
