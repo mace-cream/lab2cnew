@@ -31,8 +31,8 @@ This type of game deals with the shared energy bill, such like AC, heating, vent
 The following picture shows our system as well as the deployment situation. The backbone of the entire system is the local area network. It serves as a basis for different devices to communicate with different protocols. Four subsystems are connected to the LAN, that is, the lighting subsystem, the air conditioning subsystem, the sensing subsystem and the smart meter subsystem. The smart meter subsystem focuses on individual behavior monitoring. . It’s a wireless smart meter network that collects real-time energy consumption information and sends the data back to our server.
 
 ![Block Diagram of the Social Game System](../../../images/blog/soc-blk.jpg)
-
 *Fig.4 Block Diagram of the Social Game System.*
+
 
 ### Testbeds
 
