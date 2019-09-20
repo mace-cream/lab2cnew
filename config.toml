@@ -62,11 +62,11 @@ DefaultContentLanguage = "en"
         title   = "FRANCAIS We have explored the digital landscape with passion for a long time"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
-    # Blog Section On Homepage
-    [Languages.fr.params.blog]
+    # research Section On Homepage
+    [Languages.fr.params.research]
         enable  = true
         topTitle= "OUR Research Showcase"
-        title   = "FRANCAIS Blog."
+        title   = "FRANCAIS research."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
     # Contact Section
@@ -129,8 +129,8 @@ DefaultContentLanguage = "en"
         title   = "We have explored the digital landscape with passion for a long time"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
-    # Blog Section On Homepage
-    [Languages.en.params.blog]
+    # research Section On Homepage
+    [Languages.en.params.research]
         enable  = true
         topTitle= "OUR Research Showcase"
         title   = "Research."
@@ -171,8 +171,8 @@ DefaultContentLanguage = "en"
         url     = "publication"
         weight  = 3
     [[menu.nav]]
-        name    = "blog"
-        url     = "blog"
+        name    = "research"
+        url     = "research"
         weight  = 4
     [[menu.nav]]
         name    = "contact"
