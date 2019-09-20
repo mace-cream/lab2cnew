@@ -167,13 +167,13 @@ DefaultContentLanguage = "en"
         url     = "people"
         weight  = 2
     [[menu.nav]]
-        name    = "publication"
-        url     = "publication"
-        weight  = 3
-    [[menu.nav]]
         name    = "research"
         url     = "research"
-        weight  = 4
+        weight  = 3
+    [[menu.nav]]
+        name    = "publication"
+        url     = "publication"
+        weight  = 4        
     [[menu.nav]]
         name    = "contact"
         url     = "contact"
@@ -181,12 +181,12 @@ DefaultContentLanguage = "en"
 
     # Footer Service Menu
     [[menu.publication]]
-        name    = "publication"
-        url     = "publication"
-        weight  = 1
-    [[menu.publication]]
         name    = "people"
         url     = "people"
+        weight  = 1    
+    [[menu.publication]]
+        name    = "publication"
+        url     = "publication"
         weight  = 2
     [[menu.publication]]
         name    = "contact"
