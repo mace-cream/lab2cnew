@@ -171,28 +171,24 @@ DefaultContentLanguage = "en"
         url     = "publication"
         weight  = 3
     [[menu.nav]]
-        name    = "portfolio"
-        url     = "portfolio"
-        weight  = 4
-    [[menu.nav]]
         name    = "blog"
         url     = "blog"
-        weight  = 5
+        weight  = 4
     [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 6
+        weight  = 5
 
     # Footer Service Menu
-    [[menu.service]]
+    [[menu.publication]]
         name    = "graphicdesign"
         url     = "publication"
         weight  = 1
-    [[menu.service]]
+    [[menu.publication]]
         name    = "webdesign"
         url     = "publication"
         weight  = 2
-    [[menu.service]]
+    [[menu.publication]]
         name    = "webdevelopment"
         url     = "publication"
         weight  = 3
