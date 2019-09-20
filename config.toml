@@ -65,7 +65,7 @@ DefaultContentLanguage = "en"
     # Blog Section On Homepage
     [Languages.fr.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
+        topTitle= "OUR Research Showcase"
         title   = "FRANCAIS Blog."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
@@ -132,9 +132,9 @@ DefaultContentLanguage = "en"
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "Blog."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        topTitle= "OUR Research Showcase"
+        title   = "Research."
+        subtitle= "Our lab's Research topics ranges from information theory to data engineering and cyber physical system design"
 
     # Contact Section
     [Languages.en.params.contact]
