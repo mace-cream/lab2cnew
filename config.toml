@@ -120,7 +120,7 @@ DefaultContentLanguage = "en"
         button  = true
         btnText = "Know More"
         btnURL  = "./"
-        videoThumb = "images/slider/video-player-thumb.jpg"
+        videoThumb = "images/slider/professor_birthday.jpg"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # About 2 Section
