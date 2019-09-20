@@ -107,7 +107,7 @@ DefaultContentLanguage = "en"
     menufixed = false
 
     footerDescription = "4I Lab is an innovative laboratory in Tsinghua-Berkley Shenzhen Institute"
-    footerServiceTitle = "Service"
+    footerServiceTitle = "More Info"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "People"
     footerSubscribeTitle = "Subscribe"
@@ -181,32 +181,20 @@ DefaultContentLanguage = "en"
 
     # Footer Service Menu
     [[menu.publication]]
-        name    = "graphicdesign"
+        name    = "publication"
         url     = "publication"
         weight  = 1
     [[menu.publication]]
-        name    = "webdesign"
-        url     = "publication"
+        name    = "people"
+        url     = "people"
         weight  = 2
     [[menu.publication]]
-        name    = "webdevelopment"
-        url     = "publication"
+        name    = "contact"
+        url     = "contact"
         weight  = 3
 
     # Footer Quick links Menu
     [[menu.quicklink]]
-        name    = "partners"
-        url     = "people"
+        name    = "Official website"
+        url     = "https://www.tbsi.edu.cn/"
         weight  = 1
-    [[menu.quicklink]]
-        name    = "about"
-        url     = "people"
-        weight  = 2
-    [[menu.quicklink]]
-        name    = "faqs"
-        url     = "people"
-        weight  = 3
-    [[menu.quicklink]]
-        name    = "badges"
-        url     = "people"
-        weight  = 4
