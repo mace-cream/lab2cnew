@@ -11,10 +11,10 @@ Check directory `content/blog`, add new posts.
 
 ## How to check build error
 On your commit to this repository, gitlab will automatically build the website source code. If the build is 
-successful, the build artifact will be deployed on production. To check whether the build is successful and
+successful, the build artifact will be deployed to our manage node web directory. To check whether the build is successful and
 the build log, you can
 open the [pipelines](http://10.8.4.170:88/zhaofeng-shu33/lab2cnew/pipelines) web page.
- 
+
 ## How to format our published article
 First we should make a bibtex database. See the project [lab-bibtex](http://10.8.4.170:88/zhaofeng-shu33/lab-bibtex).
 Then use `pybtex` to generate markdown file.
