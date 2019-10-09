@@ -16,5 +16,5 @@ the build log, you can
 open the [pipelines](http://10.8.4.170:88/zhaofeng-shu33/lab2cnew/pipelines) web page.
  
 ## How to format our published article
-First we should make a bibtex database.
+First we should make a bibtex database. See the project [lab-bibtex](http://10.8.4.170:88/zhaofeng-shu33/lab-bibtex).
 Then use `pybtex` to generate markdown file.
