@@ -92,11 +92,30 @@ member  :
     description   : >
       Environment Big Data
 
-  - image         : images/team/guodong.jpg
+  - image         : images/team/liguodong.jpg
     name          : Guodong Li
     designation   : Ph.D Student
     description   : >
-      Sensible City
+      IOT，Sensor System，Learning Theory and Its Application
+
+  - image         : images/team/ziyan.jpg
+    name          : Ziyan Zheng
+    designation   : Ph.D Student
+    description   : >
+      Learning Theory and Its Application
+
+  - image         : images/team/weida.jpg
+    name          : Weida Wang
+    designation   : Ph.D Student
+    description   : >
+      Learning Theory, Information Theory and Its Application
+
+  - image         : images/team/tanyang.jpg
+    name          : Yang Tan
+    designation   : Ph.D Student
+    description   : >
+      Transfer Learning, Computer Vision
+
 
 #phd over
 #master begin
@@ -135,6 +154,7 @@ member  :
     designation   : Master Student
     description   : >
       Image Interpretion Based on Small Samples
+
 
   - image         : images/team/zhangwei.jpg
     name          : Wei Zhang
@@ -177,6 +197,63 @@ member  :
     designation   : Master Student
     description   : >
       Natural Language Processing
+
+  - image         : images/team/weitao.png
+    name          : Weitao Tang
+    designation   : Master Student
+    description   : >
+      Affective Computing
+
+  - image         : images/team/zifeng.jpg
+    name          : Zifeng Wang
+    designation   : Master Student
+    description   : >
+      Computer Vision
+
+  - image         : images/team/liangsheng.jpg
+    name          : Liangsheng Xu
+    designation   : Master Student
+    description   : >
+      Machine Learning, Computer Vision and Image Segmentation Recognition
+ 
+  - image         : images/team/zelong.jpg
+    name          : Zelong Yang
+    designation   : Master Student
+    description   : >
+      Trajectory Data Mining
+
+  - image         : images/team/sikai.jpg
+    name          : Sikai Yin
+    designation   : Master Student
+    description   : >
+      Algorithm
+
+  - image         : images/team/yuyang.jpg
+    name          : Yuyang Zhang
+    designation   : Master Student
+    description   : >
+      Internet of Things
+
+  - image         : images/team/.jpg
+    name          :
+    designation   : Master Student
+    description   : >
+
+  - image         : images/team/.jpg
+    name          :
+    designation   : Master Student
+    description   : >
+
+  - image         : images/team/.jpg
+    name          :
+    designation   : Master Student
+    description   : >
+
+  - image         : images/team/.jpg
+    name          :
+    designation   : Master Student
+    description   : >
+
 
 
 
