@@ -143,6 +143,12 @@ member  :
     description   : >
       Natural Language Processing
 
+  - image         : images/team/changjin.jpg
+    name          : Changjin Liu
+    designation   : Master Student
+    description   : >
+      TBD
+
   - image         : images/team/lushi.jpg
     name          : Shi Lu
     designation   : Master Student
@@ -234,25 +240,29 @@ member  :
     description   : >
       Internet of Things
 
-  - image         : images/team/.jpg
-    name          :
+  - image         : images/team/bunchalit.jpg
+    name          : Eua-Arporn Bunchalit
     designation   : Master Student
     description   : >
+      Internet of things and machine learning
 
-  - image         : images/team/.jpg
-    name          :
+  - image         : images/team/riccado.jpg
+    name          : Mattesini Riccardo
     designation   : Master Student
     description   : >
+      Machine learning and robotics
 
-  - image         : images/team/.jpg
-    name          :
+  - image         : images/team/jiarong.jpg
+    name          : Jiarong Li
     designation   : Master Student
     description   : >
+      Learning Theory, Information Theory and Its Application
 
-  - image         : images/team/.jpg
-    name          :
+  - image         : images/team/lewenyuan.jpg
+    name          : Lewen Yuan
     designation   : Master Student
     description   : >
+      Machine Learning, Operation Research and Comprehensive Application
 
 
 
