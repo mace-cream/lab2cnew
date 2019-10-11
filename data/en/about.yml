@@ -11,3 +11,9 @@ item    :
     title : Associate Professor Shaolun Huang 
     description : >
       Shao-Lun Huang received the B.S. degree with honor in 2008 from the Department of Electronic Engineering, National Taiwan University, Taiwan, and the M.S. and Ph.D. degree in 2010 and 2013 from the Department of Electronic Engineering and Computer Sciences, Massachusetts Institute of Technology. From 2013 to 2016, he was working as a postdoctoral researcher jointly in the Department of Electrical Engineering at the National Taiwan University and the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology. Since 2016, he has joined Tsinghua-Berkeley Shenzhen Institute, where he is currently an assistant professor. His research interests include information theory, communication theory, machine learning, and social networks.
+
+  - positionRight : false
+    image : images/about/portrait.jpg
+    title : Associate Professor Yang Li
+    description : >
+      Yang Li obtained her PhD. degree in Computer Science from Stanford University in 2017 and post doctor degree from Tsinghua-Berkeley Shenzhen Institute in 2019. Her research interest includes transfer learning, information theory and feature embedding.
