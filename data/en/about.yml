@@ -2,18 +2,18 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.png
-    title : Professor Lin Zhang
+    title : Prof. Lin Zhang
     description : >
       Lin Zhang received all his degrees from Tsinghua University in Beijing (B.Sc. '98, M.Sc. '01, Ph.D. '06). He was the associate professor between 2008 and 2014 in Electronic Engineering Department in Tsinghua University. He was a visiting professor at UC Berkeley and Stanford University between 2011 and 2014. He is currently a professor and co-director of Tsinghua-Berkeley Shenzhen Institute since Sep.,2017. He is also the deputy director of Tsinghua Shenzhen International Graduate School since Jan.,2019.He is a senior member of IEEE and a committee member of Chinese Information Theory Society.
       
   - positionRight : true
     image : images/about/about-2.jpg
-    title : Associate Professor Shaolun Huang 
+    title : Prof. Shao-Lun Huang 
     description : >
       Shao-Lun Huang received the B.S. degree with honor in 2008 from the Department of Electronic Engineering, National Taiwan University, Taiwan, and the M.S. and Ph.D. degree in 2010 and 2013 from the Department of Electronic Engineering and Computer Sciences, Massachusetts Institute of Technology. From 2013 to 2016, he was working as a postdoctoral researcher jointly in the Department of Electrical Engineering at the National Taiwan University and the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology. Since 2016, he has joined Tsinghua-Berkeley Shenzhen Institute, where he is currently an assistant professor. His research interests include information theory, communication theory, machine learning, and social networks.
 
   - positionRight : false
     image : images/about/portrait.jpg
-    title : Associate Professor Yang Li
+    title : Prof. Yang Li
     description : >
-      Yang Li obtained her PhD. degree in Computer Science from Stanford University in 2017 and post doctor degree from Tsinghua-Berkeley Shenzhen Institute in 2019. Her research interest includes transfer learning, information theory and feature embedding.
+      Yang Li obtained her Ph.D. degree in Computer Science from Stanford University in 2017 and post doctor degree from Tsinghua-Berkeley Shenzhen Institute in 2019. Her research interest includes transfer learning, information theory and feature embedding.
