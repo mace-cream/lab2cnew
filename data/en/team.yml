@@ -264,7 +264,41 @@ member  :
     description   : >
       Machine Learning, Operation Research and Comprehensive Application
 
+  - image         : images/team/yicong.jpg
+    name          : Yicong Li
+    designation   : Master Student
+    description   : >
+      Machine Learning, Deep Learning, and Computer Vision
 
+  - image         : images/team/zhicheng.jpeg
+    name          : Zhicheng An
+    designation   : Master Student
+    description   : >
+      Internet of Things, Machine Learning
+
+  - image         : images/team/jingge.jpg
+    name          : Jingge Wang
+    designation   : Master Student
+    description   : >
+      Transfer Learning
+
+  - image         : images/team/honglu.jpg
+    name          : Honglu Ji
+    designation   : Master Student
+    description   : >
+      Machine Learning and Its Application, Low-Carbon Economy
+
+  - image         : images/team/yanfeng.jpg
+    name          : Yanfeng Chen
+    designation   : Master Student
+    description   : >
+      Automatic Driving, Robotic and Computer Vision
+
+  - image         : images/team/runpeng.jpg
+    name          : Runpeng Yu
+    designation   : Master Student
+    description   : >
+      Learning Theory Application
 
 
 
