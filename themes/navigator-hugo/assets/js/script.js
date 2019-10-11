@@ -313,6 +313,8 @@ function createIcon(json){
     
     
 function initialize() {
+    if ($('#map').length == 0)
+        return;
 	var latitude = $('#map').data('lat');
 	var longitude = $('#map').data('long');
     initMap(longitude, latitude);//创建和初始化地图
