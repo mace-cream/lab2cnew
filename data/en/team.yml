@@ -1,7 +1,7 @@
 enable  : true
 topTitle: TEAM MEMBER
 title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: Our team consists of PhD students and master students
 
 member  :
   - image         : images/team/xiangxiang.png
