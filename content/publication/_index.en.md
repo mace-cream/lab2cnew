@@ -46,11 +46,11 @@ In *2019 22nd International Conference on Intelligent Transportation Systems \(I
 [16] Xinyu Liu, Xinlei Chen, Xiangxiang Xu, Enhan Mai, Hae Young Noh, Pei Zhang, and Lin Zhang\.
 Delay effect in mobile sensing system for urban air pollution monitoring\.
 In *Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems*, SenSys '17, 73:1–73:2\. New York, NY, USA, 2017\. ACM\.
-[doi:10\.1145/3131672\.3136997](https://doi.org/10.1145/3131672.3136997)\.  
+doi:10\.1145/3131672\.3136997\.  
 [17] Xinyu Liu, Xiangxiang Xu, Xinlei Chen, Enhan Mai, Hae Young Noh, Pei Zhang, and Lin Zhang\.
 Individualized calibration of industrial\-grade gas sensors in air quality sensing system\.
 In *Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems*, SenSys '17, 74:1–74:2\. New York, NY, USA, 2017\. ACM\.
-[doi:10\.1145/3131672\.3136998](https://doi.org/10.1145/3131672.3136998)\.  
+doi:10\.1145/3131672\.3136998.1145\.  
 [18] Rui Ma, Xiangxiang Xu, Hae Young Noh, Pei Zhang, and Lin Zhang\.
 Generative model based fine\-grained air pollution inference for mobile sensing systems\.
 In *Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*, 426–427\. ACM, 2018\.  
