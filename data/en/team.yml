@@ -299,6 +299,12 @@ member  :
     designation   : Master Student
     description   : >
       Learning Theory Application
+      
+  - image         : images/team/luis.jpg
+    name          : Luis Barragan
+    designation   : Master Student
+    description   : >
+      IoT, Machine Learning, Operations Research
 
 
 
