@@ -54,13 +54,13 @@ member  :
     name          : Yuqing Gao
     designation   : Ph.D Student
     description   : >
-      TBD
+      Machine Learning, Deep Learning and Time Series Analysis in Structural Health Monitoring and Earthquake Engineering
 
   - image         : images/team/amo.jpg
     name          : Kwemena Amo-Dadey
     designation   : Ph.D Student
     description   : >
-      TBD
+      Social Computing, Natural Language Processing and Applications
 
   - image         : images/team/mafei.jpg
     name          : Fei Ma
@@ -147,7 +147,7 @@ member  :
     name          : Changjin Liu
     designation   : Master Student
     description   : >
-      TBD
+      Transfer Learning Application in NLP Area
 
   - image         : images/team/lushi.jpg
     name          : Shi Lu
@@ -264,7 +264,47 @@ member  :
     description   : >
       Machine Learning, Operation Research and Comprehensive Application
 
+  - image         : images/team/yicong.jpg
+    name          : Yicong Li
+    designation   : Master Student
+    description   : >
+      Machine Learning, Deep Learning, and Computer Vision
 
+  - image         : images/team/zhicheng.jpeg
+    name          : Zhicheng An
+    designation   : Master Student
+    description   : >
+      Internet of Things, Machine Learning
+
+  - image         : images/team/jingge.jpg
+    name          : Jingge Wang
+    designation   : Master Student
+    description   : >
+      Transfer Learning
+
+  - image         : images/team/honglu.jpg
+    name          : Honglu Ji
+    designation   : Master Student
+    description   : >
+      Machine Learning and Its Application, Low-Carbon Economy
+
+  - image         : images/team/yanfeng.jpg
+    name          : Yanfeng Chen
+    designation   : Master Student
+    description   : >
+      Automatic Driving, Robotic and Computer Vision
+
+  - image         : images/team/runpeng.jpg
+    name          : Runpeng Yu
+    designation   : Master Student
+    description   : >
+      Learning Theory Application
+      
+  - image         : images/team/luis.jpg
+    name          : Luis Barragan
+    designation   : Master Student
+    description   : >
+      IoT, Machine Learning, Operations Research
 
 
 
