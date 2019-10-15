@@ -7,7 +7,9 @@ It is deployed to [lab2cnew](http://10.8.4.170/lab2cnew/).
 Check directory `data/en/team.yml`, make sure your photo is 670X670 pixels.
 
 ## How to edit our research
-Check directory `content/blog`, add new posts.
+Check directory `content/blog`, add new posts or edit existing posts.
+
+## How to put pictures in our post
 
 ## How to check build error
 On your commit to this repository, gitlab will automatically build the website source code. If the build is 

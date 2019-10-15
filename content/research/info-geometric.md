@@ -1,7 +1,7 @@
 ---
 title: Info Geometric
 date: 2018-09-11
-image: images/blog/pimi.jpg
+image: images/blog/ig.png
 author: Admin
 ---
 
