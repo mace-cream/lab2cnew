@@ -174,9 +174,13 @@ DefaultContentLanguage = "en"
         url     = "publication"
         weight  = 4        
     [[menu.nav]]
+        name    = "dataset"
+        url     = "dataset"
+        weight  = 5
+    [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 5
+        weight  = 6
 
     # Footer Service Menu
     [[menu.publication]]
