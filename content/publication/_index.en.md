@@ -1,3 +1,9 @@
+---
+title: "FRANCAIS Our Services"
+date: 2018-07-07T14:53:13+06:00
+draft: false
+---
+
 [1] Yajie Bao, Yang Li, Shao\-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas\.
 An information\-theoretic metric of transferability for task transfer learning\.
 In *26th IEEE International Conference on Image Processing \(ICIP\)*\. 2019\.  
