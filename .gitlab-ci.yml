@@ -11,7 +11,7 @@ build_job:
     - ls
   artifacts:
     paths:
-      - /target
+      - public
 deploy_job:
   stage: deploy
   tags:
@@ -20,4 +20,4 @@ deploy_job:
     - build_job
   script:
     - rm -r /var/www/html/lab2cnew/*
-    - mv /target/* /var/www/html/lab2cnew/
+    - mv public/* /var/www/html/lab2cnew/
