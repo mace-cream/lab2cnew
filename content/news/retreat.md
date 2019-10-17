@@ -1,11 +1,10 @@
 ---
 title: TBSI 2019 Retreat Conference
 date: 2019-07-15
-image: images/blog/retreat.png
+image: images/blog/retreat.jpg
 author: Admin
 ---
 
-# Information Geometric Characterizations and Applications of Machine Learning Algorithms
 
 ![](../../../images/blog/retreat.png)
 
