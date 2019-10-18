@@ -6,9 +6,7 @@ build_job:
   tags:
     - website
   script:
-    - pwd
     - hugo
-    - ls
   artifacts:
     paths:
       - public
