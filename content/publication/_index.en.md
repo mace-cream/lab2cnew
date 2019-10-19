@@ -3,6 +3,7 @@ title: "Publication"
 date: 2018-07-07T14:53:13+06:00
 draft: false
 ---
+### Artificial Intelligence
 [1] Yajie Bao, Yang Li, Shao\-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas\.
 An information\-theoretic metric of transferability for task transfer learning\.
 In *26th IEEE International Conference on Image Processing \(ICIP\)*\. 2019\.  
@@ -72,8 +73,8 @@ In *International Conference on Neural Information Processing*\. 2019\.
 [23] Nikolaos Zygouras, Nikolaos Panagiotou, Dimitrios Gunopulos, Yang Li, and Leonidas Guibas\.
 A hybrid technique for travel time estimation in sparse data environments\.
 In *Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*\. 2019\.  
-
 ***
+### Internet of Things
 [1] Jing Lian, Yang Li, Weixi Gu, Shao\-Lun Huang, and Lin Zhang\.
 Joint mobility pattern mining with urban region partitions\.
 In *Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services*, 362–371\. ACM, 2018\.  
