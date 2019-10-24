@@ -14,6 +14,8 @@ deploy_job:
   stage: deploy
   tags:
     - website
+  only:
+    - master
   dependencies:
     - build_job
   script:
