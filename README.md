@@ -1,4 +1,6 @@
-# How to maintain this website
+# Lab2c Website
+
+## How to maintain this website
 
 This website is based on Hugo static site generator.
 It is deployed to [lab2cnew](http://10.8.4.170/lab2cnew/).
