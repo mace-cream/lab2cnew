@@ -11,8 +11,10 @@
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane" id="ai">
+                    {{ with .Site.GetPage "/publication/ai.md" }}{{ .Content }}{{ end }}
                     </div>
                     <div class="tab-pane" id="iot">
+                    {{ with .Site.GetPage "/publication/iot.md" }}{{ .Content }}{{ end }}                    
                     </div>                    
                     <div class="tab-pane" id="older_pub">
                         <ul><li> Yiming Liu, Victor Li, Ka-cheong Leung, Lin Zhang, “Performance Improvement of Topology-Transparent Broadcast Scheduling in Mobile Ad Hoc Networks, IEEE Transactions on Vehicular Technology (IEEE TVT) (Accepted)
@@ -87,39 +89,8 @@
                         </li></ul>
                     </div>
                     <div class="tab-pane active" id="newpub">
-                        <ul><li>Yang Li, Dimitrios Gunopulos, Cewu Lu, and Leonidas Guibas, Personalized Travel Time Prediction using a Small Number of Probe Vehicles, ACM Transactions on Spatial Algorithms and Systems, Special Issue on Urban Mobility: Algorithms and Systems, 2019.
-                        </li><li>Fei Ma, Wei Zhang, Yang Li, Shao-Lun Huang, and Lin Zhang. 2019. AN END-TO-END LEARNING APPROACH FOR MULTIMODAL EMOTION RECOGNITION: EXTRACTING COMMON AND PRIVATE INFORMATION. In Multimedia and Expo (ICME), 2019 IEEE International Conference on.
-                        </li><li>Hanling Wang, Mingyang Li, Fei Ma, Shao-Lun Huang, and Lin Zhang. 2019. Poster Abstract: Unsupervised Anomaly Detection via Generative Adversarial Networks. In The 18th International Conference on Information Processing in Sensor Networks (co-located with CPS-IoT Week 2019) (IPSN '19) (accepted)
-                        </li><li>Lichen Wang, Jiaxiang Wu, Shao-Lun Huang, Lizhong Zheng, Xiangxiang Xu, Lin Zhang, and Junzhou Huang. An efficient approach to informative feature extraction from multimodal data. In AAAI 2019.
-                        </li><li>Xiangxiang Xu, Shao-Lun Huang, Lizhong Zheng, and Lin Zhang. "The Geometric Structure of Generalized Softmax Learning". In 2018 IEEE Information Theory Workshop (ITW) (IEEE ITW 2018), Guangzhou, P.R. China, November 2018.
-                        </li><li>Xinlei Chen, Xiangxiang Xu, Xinyu Liu, Shijia Pan, Jiayou He, Hae Young Noh, Lin Zhang, and Pei Zhang. PGA: Physics guided and adaptive approach for mobile fine-grained air pollution estimation. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers, pages 1321–1330. ACM, 2018.
-                        </li><li>Yang Li, Dimitrios Gunopulos, Cewu Lu, and Leonidas Guibas, Urban Travel Time Prediction using a Small Number of GPS-Floating Cars, In Proceedings of the 25th SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2017.
-                        </li><li>Xinyu Liu, Xinlei Chen, Xiangxiang Xu, Enhan Mai, Hae Young Noh, Pei Zhang, and Lin Zhang. Delay effect in mobile sensing system for urban air pollution monitoring. In Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems, page 73. ACM, 2017.
-                        </li><li>Xinyu Liu, Xiangxiang Xu, Xinlei Chen, Enhan Mai, Hae Young Noh, Pei Zhang, and Lin Zhang. Individualized calibration of industrial-grade gas sensors in air quality sensing system. In Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems, page 74. ACM, 2017.
-                        </li><li>Rui Ma, Xiangxiang Xu, Hae Young Noh, Pei Zhang, and Lin Zhang. "Generative model based fine-grained air pollution inference for mobile sensing systems". In Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems, pages 426–427. ACM, 2018.
-                        </li><li>Rui Ma, Xiangxiang Xu, Yue Wang, Hae Young Noh, Pei Zhang, and Lin Zhang. "Guiding the data learning process with physical model in air pollution inference". In 2018 IEEE International Conference on Big Data (Big Data), pages 4475–4483. IEEE, 2018.
-                        </li><li>Rui Ma, and Lin Zhang. "PiMi: two-month indoor/outdoor PM 2.5 concentrations along with behavior labels through large-scale participatory sensing". Proceedings of the First Workshop on Data Acquisition To Analysis, pages 1-2. ACM, 2018.
-                        </li><li>Xiangxiang Xu, Pei Zhang, and Lin Zhang. Gotcha: a mobile urban sensing system. In Proceedings of the 12th ACM Conference on Embedded Network Sensor Systems, pages 316– 317. ACM, 2014.
-                        </li><li>Tianyu Yang, Xiangxiang Xu, Qinglai Guo, Lin Zhang, and Hongbin Sun. EV charging behaviour analysis and modelling based on mobile crowdsensing data. IET Generation, Transmission &amp; Distribution, 11(7):1683–1691, 2017.
-                        </li><li>Xiangxiang Xu, Xinlei Chen, Xinyu Liu, Hae Young Noh, Pei Zhang, and Lin Zhang. Gotcha II: Deployment of a vehicle-based environmental sensing system. In Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM, pages 376–377. ACM, 2016.
-                        </li><li>Xinlei Chen, Xiangxiang Xu, Xinyu Liu, Hae Young Noh, Lin Zhang, and Pei Zhang. HAP: Fine-grained dynamic air pollution map reconstruction by hybrid adaptive particle filter. In Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM, pages 336–337. ACM, 2016.
-                        </li><li>Fei Ma, Weixi Gu, Wei Zhang, Shiguang Ni, Shao-Lun Huang and Lin Zhang. (2018, November). Speech Emotion Recognition via Attention-based DNN from Multi-Task Learning. In Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems (pp. 363-364). ACM.
-                        </li><li>Jing Lian. "SRC: extracting commute patterns for customized bus service area design." SIGSPATIAL Special 9.3 (2018): 10-11.
-                        </li><li>Jing Lian, Yang Li, Weixi Gu, Shao-Lun Huang, and Lin Zhang. "Joint Mobility Pattern Mining with Urban Region Partitions." Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services. ACM, 2018.
-                        </li><li>Jing Lian, and Lin Zhang. "One-month beijing taxi GPS trajectory dataset with taxi IDs and vehicle status." Proceedings of the First Workshop on Data Acquisition To Analysis. ACM, 2018.
-                        </li><li>Weiwei Jiang, Jing Lian, Max Shen, and Lin Zhang. "A multi-period analysis of taxi drivers' behaviors based on GPS trajectories." 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2017.
-                        </li><li>Susu Xu, Lin Zhang, Pei Zhang, Hae Young Noh.”An Indirect Traffic Monitoring Approach Using Building Vibration Sensing System: Poster Abstract.”Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM,2016.
-                        </li><li>Yangyang Xie, Bin Zhao, Lin Zhang, Rong Luo. "Spatiotemporal variations of PM 2.5 and PM 10 concentrations between 31 Chinese cities and their relationships with SO 2, NO 2, CO and O 3." Particuology 20 (2015): 141-149.
-                        </li><li>Weiwei Jiang, Chunxiao Jiang, Pei Zhang, Lin Zhang. "Poster: CountryRoads: Large-Scale Nationwide Ridesharing System." In Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems, pp. 427-428. ACM, 2015.
-                        </li><li>Ming Jin, Lin Zhang, Costas J. Spanos. "Power prediction through energy consumption pattern recognition for smart buildings." In 2015 IEEE International Conference on Automation Science and Engineering (CASE), pp. 419-424. IEEE, 2015.
-                        </li><li>Xiangxiang Xu, Pei Zhang, Lin Zhang, “Demo Abstract: Gotcha - A Mobile Urban Sensing System,” in Proceeding of the ACM Sensys 2014, November 3-6, 2014, Memphis, TN.
-                        </li><li>Yiming Liu, Victor O. K. Li, Ka-Cheong Leung, Lin Zhang, “Distributed Multi-Channel Topology-Transparent Broadcast Scheduling in Ad Hoc Networks,” in Proceedings of the IEEE Wireless Communications and Networking Conference (IEEE WCNC 2014), Istanbul, Turkey, 6-9 Apr. 2014.
-                        </li><li>Linglong Li, Yixin Zheng, and Lin Zhang. "Demonstration Abstract: PiMi Air Box: A Cost-effective Sensor for Participatory Indoor Air Quality Monitoring," in Proceedings of the 13th International Symposium on Information Processing in Sensor Networks (IPSN 2014), pp. 327-328, IEEE Press, 2014. (Best Demo Award)
-                        </li><li>Yixin Zheng, Linglong Li, and Lin Zhang. "PiMi Air Community: Getting Fresher Indoor Air by Sharing Data and Know-how," in Proceedings of the 13th International Symposium on Information Processing in Sensor Networks (IPSN 2014), pp. 283-284, IEEE Press, 2014.
-                        </li><li>Xinyu Mao, Shiyu Liu, Lin Zhang, and Victor OK Li. "Energy-Delay Region of Low Duty Cycle Wireless Sensor Networks for Critical Data Collection," in Proceedings of the Information Theory and Application Workshop, UCSD, Feb. 2014.
-                        </li><li>Yiming Liu, Victor Li, KC Leung, Lin Zhang, "Topology-Transparent Scheduling in Mobile Ad Hoc Networks with Multiple Packet Reception Capability," in IEEE Transactions on Wireless Communications, vol.13, no.11, pp.5940-5953, Nov. 2014.
-                        </li><li>Ahn Joon Ahn, M. Sathiamoorthy, Bhaskar Krishnamachari, Bai Fan, Lin Zhang, "Optimizing Content Dissemination in Vehicular Networks with Radio Heterogeneity," in IEEE Transactions on Mobile Computing, vol.13, no.6, pp.1312-1325, 2014.
-                        </li></ul>
+                    {{ with .Site.GetPage "/publication/ai.md" }}{{ .Content }}{{ end }}
+                    {{ with .Site.GetPage "/publication/iot.md" }}{{ .Content }}{{ end }}                    
                     </div>
                 </div> <!--end tab-content-->
             </div> <!--end col-md-12-->
