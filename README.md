@@ -28,3 +28,5 @@ Use docker to start the `gitlab-runner` service
 ```shell
 docker-compose start
 ```
+## Local Development
+Install [hugo](https://gohugo.io/getting-started/installing/).
