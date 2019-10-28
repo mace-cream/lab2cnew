@@ -22,7 +22,7 @@ to evaluate the relevant classification methods.
 
 ​			We have built two datasets, there are 20k pieces of texts about “Zhihu” in the first dataset. The second data set has about 70k pieces of texts with random topics. Four annotators do the labeling work. After the labeling is completed, 800 samples are randomly selected for manual inspection. The label’s correct rate is about 92%.  Label distribution is as follow.
 
-![](..\..\..\images\blog\zsc1.PNG)
+![](..\..\static\images\blog\zsc1.PNG)
 
 
 
@@ -40,7 +40,7 @@ we use traditional classification model ,Naive Bayes and Logistic Regression, to
 Here is t the Basic Framework of deep learning method, Firstly, we map the text into a matrix using pretrained word2vec matrix. This word2vec matrix is obtained by training in many corpus. And then we
 build a neural network to do classification.
 
-![](..\..\..\images\blog\zsc2.PNG)
+![](..\..\static\images\blog\zsc2.PNG)
 
 
 
@@ -56,7 +56,7 @@ build a neural network to do classification.
 | Bi-LSTM             | 0.74                          | 0.60                           | 0.82                       | 0.47                        | 0.699        |
 | BERT                | 0.79                          | 0.65                           | 0.82                       | 0.61                        | **0.746**    |
 
-![](..\..\..\images\blog\2w.png)
+![](..\..\static\images\blog\2w.png)
 
 
 
@@ -70,4 +70,4 @@ build a neural network to do classification.
 | Bi-LSTM             | 0.72                          | 0.52                           | 0.83                       | 0.37                        | 0.675        |
 | BERT                | 0.74                          | 0.57                           | 0.85                       | 0.39                        | **0.700**    |
 
-![](..\..\..\images\blog\7w.png)
+![](..\..\static\images\blog\7w.png)
