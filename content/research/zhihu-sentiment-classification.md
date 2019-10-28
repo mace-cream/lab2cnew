@@ -1,5 +1,5 @@
 ---
-title: Info Geometric
+title: Zhihu Sentiment Classification
 date: 2018-09-11
 image: images/blog/fig_1_process.png
 author: Admin
