@@ -12,7 +12,7 @@ install:
       sudo tar -xzf hugo_0.58.3_Linux-64bit.tar.gz -C /tmp/hugo/
     fi
 script:
-  - /tmp/hugo/hugo
+  - /tmp/hugo/hugo -b https://mace-cream.github.io
 deploy:
   - provider: pages
     skip_cleanup: true
