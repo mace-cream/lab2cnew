@@ -1,0 +1,22 @@
+os: linux
+dist: xenial
+language: generic
+cache:
+  directories:
+    - /tmp/hugo
+
+install:
+  - |
+    if [[ ! -f /tmp/hugo/hugo ]]; then
+      wget https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_0.58.3_Linux-64bit.tar.gz
+      sudo tar -xzf hugo_0.58.3_Linux-64bit.tar.gz -C /tmp/hugo/
+    fi
+script:
+  - /tmp/hugo/hugo
+deploy:
+  - provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    local_dir: public
+    on:
+      branch: master
