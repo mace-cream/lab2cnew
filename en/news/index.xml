@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on 4I Lab</title>
+    <link>https://mace-cream.github.io/en/news/</link>
+    <description>Recent content in News on 4I Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://mace-cream.github.io/en/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019 TBSI Workshop on Learning Theory</title>
+      <link>https://mace-cream.github.io/en/news/wolt/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/wolt/</guid>
+      <description>The goal of TBSI-WOLT is to bring together the world&amp;rsquo;s leading researchers in information theory, computer science, and related fields, as well as the next generation of outstanding young scholars, to explore deep unsolved problems about the learning theory. TBSI-WOLT aims to provide a relaxed and enthusiastic discussion environment for cutting edge research problems, in which the multi-discipline collaborations are also encouraged.</description>
+    </item>
+    
+    <item>
+      <title>TBSI 2019 Retreat Conference</title>
+      <link>https://mace-cream.github.io/en/news/retreat/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/retreat/</guid>
+      <description>The Tsinghua-Berkeley Shenzhen Institute (TBSI) 2019 Retreat Conference will be held in Tsinghua Shenzhen International Graduate School, University Town, Shenzhen, July 15-17. This Conference will facilitate in-depth technical discussions and networking opportunities between TBSI faculty, students, invited world-class experts and registered attendees. It features 2 plenary sessions and 7 parallel workshops featuring advanced research themes， which are all open to the external participants, including material science, environmental science, transportation systems, learning theory, 3D optical imaging, data science and precision medicine.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4I Lab</title>
+    <link>https://mace-cream.github.io/en/</link>
+    <description>Recent content on 4I Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mace-cream.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Transferability Problem</title>
+      <link>https://mace-cream.github.io/en/research/the_transferability_problem/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/the_transferability_problem/</guid>
+      <description>Introduction Task transfer learning is a learning paradigm that leverages the learned representation from a source task to help training a related target task. It is a common practice in computer vision, such as using the features of a pre-trained ImageNet 1000-class classification model on a different image recognition task by fine-tuning it with the new data. This technique has demonstrated superior performance than training without the transferred feature in many fields, such as computer vision, NLP and information systems.</description>
+    </item>
+    
+    <item>
+      <title>Fine-grained Urban Air Quality Sensing with Mobile Sensing Systems</title>
+      <link>https://mace-cream.github.io/en/research/fine-grained-urban-air-quality-sensing/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/fine-grained-urban-air-quality-sensing/</guid>
+      <description>Introduction The surveillance of air pollution is becoming a highly concerned issue for city residents and urban administrators. Apart from official air quality stations, we deployed a sensing system which consists of both mobile and static air quality sensors. We focus on research problems include: - ensuring the system accuracy and stability, minimizing the impact from sensor drift and response delay; - predicting pollution level at unobserved positions, using scene-specific machine learning methods; - investigating the pollution sources and causes with information metric.</description>
+    </item>
+    
+    <item>
+      <title>Trajectory Data Mining</title>
+      <link>https://mace-cream.github.io/en/research/trajectory-data-mining/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/trajectory-data-mining/</guid>
+      <description>Introduction With the deployment of ubiquitous sensors, human or vehicle trajectories obtained from call detail records or GPS devices provide abundant information of urban mobility. I have been focusing on understanding and extracting mobility patterns based on taxi GPS data, which could provide insights for traffic management authorities. These work are:
+ Discovering how transportation network companies like Didi and Uber influence taxi industry; Utilizing taxi trip data for customized bus service area design; Partitioning city regions while extracting movement patterns to understand urban mobility.</description>
+    </item>
+    
+    <item>
+      <title>2019 TBSI Workshop on Learning Theory</title>
+      <link>https://mace-cream.github.io/en/news/wolt/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/wolt/</guid>
+      <description>The goal of TBSI-WOLT is to bring together the world&amp;rsquo;s leading researchers in information theory, computer science, and related fields, as well as the next generation of outstanding young scholars, to explore deep unsolved problems about the learning theory. TBSI-WOLT aims to provide a relaxed and enthusiastic discussion environment for cutting edge research problems, in which the multi-discipline collaborations are also encouraged.</description>
+    </item>
+    
+    <item>
+      <title>TBSI 2019 Retreat Conference</title>
+      <link>https://mace-cream.github.io/en/news/retreat/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/retreat/</guid>
+      <description>The Tsinghua-Berkeley Shenzhen Institute (TBSI) 2019 Retreat Conference will be held in Tsinghua Shenzhen International Graduate School, University Town, Shenzhen, July 15-17. This Conference will facilitate in-depth technical discussions and networking opportunities between TBSI faculty, students, invited world-class experts and registered attendees. It features 2 plenary sessions and 7 parallel workshops featuring advanced research themes， which are all open to the external participants, including material science, environmental science, transportation systems, learning theory, 3D optical imaging, data science and precision medicine.</description>
+    </item>
+    
+    <item>
+      <title>Info Geometric</title>
+      <link>https://mace-cream.github.io/en/research/info-geometric/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/info-geometric/</guid>
+      <description>Information Geometric Characterizations and Applications of Machine Learning Algorithms With the information geometric method from information theory, we build a theoretical framework to analyze features in machine learning algorithms. This framework has revealed the essential connections between information theory and machine learning. In particular, our framework has revealed that the feature extracted in deep neural networks is the most informative feature from the perspective of information theory, which provides a theoretic interpretation of deep neural networks.</description>
+    </item>
+    
+    <item>
+      <title>Zhihu Sentiment Classification</title>
+      <link>https://mace-cream.github.io/en/research/zhihu-sentiment-classification/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/zhihu-sentiment-classification/</guid>
+      <description>Zhihu Sentiment Classification Introduction ​ With the development of the Internet, a large number of users on the Internet have written a lot of text,which contain the people’s sentiment. However, due to the huge amount of text, it is impossible to deal with the amount of text on the Internet only by relying on manual means. So we need a Intelligent algorithm to classify the sentiment of text automatically.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mace-cream.github.io/en/publication/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/publication/ai/</guid>
+      <description>Artificial Intelligence [1] Yajie Bao, Yang Li, Shao-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas. An information-theoretic metric of transferability for task transfer learning. In 26th IEEE International Conference on Image Processing (ICIP). 2019.
+[2] Xinlei Chen, Xiangxiang Xu, Xinyu Liu, Hae Young Noh, Lin Zhang, and Pei Zhang. Hap: fine-grained dynamic air pollution map reconstruction by hybrid adaptive particle filter. In Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM, 336–337.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mace-cream.github.io/en/publication/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/publication/iot/</guid>
+      <description>Internet of Things [1] Weixi Gu, Yue Zhang, Fei Ma, Khalid Mosalam, Lin Zhang, and Shiguang Ni. Real-time emotion detection via e-see. In Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems, 420–421. ACM, 2018.
+[2] Jing Lian, Yang Li, Weixi Gu, Shao-Lun Huang, and Lin Zhang. Joint mobility pattern mining with urban region partitions. In Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, 362–371.</description>
+    </item>
+    
+  </channel>
+</rss>

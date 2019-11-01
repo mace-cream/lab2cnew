@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/news/</loc>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/research/</loc>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/contact/</loc>
+    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/portfolio/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/publication/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/people/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/people/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/people/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/tags/"
+                />
+  </url>
+  
+</urlset>
