@@ -27,7 +27,7 @@
                             {{ "<!-- member name & designation -->" | safeHTML }}
                             <div class="member-content">
                                 <h3>{{ .name }}</h3>
-                                <span>{{ .designation }}</span>
+                                <span>{{ .year }}&nbsp;{{ .designation }}</span>
                                 <p>{{ .description }}</p>
                                 <ul class="list-inline">
                                     {{ with .facebookURL }}
