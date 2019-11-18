@@ -1,7 +1,9 @@
 ### Artificial Intelligence
-[1] Yajie Bao, Yang Li, Shao\-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas\.
-An information\-theoretic metric of transferability for task transfer learning\.
-In *26th IEEE International Conference on Image Processing \(ICIP\)*\. 2019\.  
+[1] **An information\-theoretic metric of transferability for task transfer learning\.**
+
+Yajie Bao, Yang Li, Shao\-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas\.
+In *26th IEEE International Conference on Image Processing \(ICIP\)*\. 2019\.  [Link](https://ieeexplore.ieee.org/document/8803726)
+
 [2] Xinlei Chen, Xiangxiang Xu, Xinyu Liu, Hae Young Noh, Lin Zhang, and Pei Zhang\.
 Hap: fine\-grained dynamic air pollution map reconstruction by hybrid adaptive particle filter\.
 In *Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD\-ROM*, 336–337\. ACM, 2016\.  
@@ -68,4 +70,5 @@ In *International Conference on Neural Information Processing*\. 2019\.
 [23] Nikolaos Zygouras, Nikolaos Panagiotou, Dimitrios Gunopulos, Yang Li, and Leonidas Guibas\.
 A hybrid technique for travel time estimation in sparse data environments\.
 In *Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*\. 2019\.  
+
 ***
