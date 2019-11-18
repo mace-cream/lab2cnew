@@ -9,7 +9,10 @@ author: Feng Zhao, Tianwen Xie
 
 ## Introduction
 
-​In this section, please give a short introduction of your research area. You can use
+​This article is a short introduction to your current research. It is equivalent to your several published or
+under-reviewed papers.
+
+In this section, please give a short introduction of your research area. You can use
 **bold** or *italic* formatting for emphasis.
 
 If you need a new paragraph, please leave a blank line.
