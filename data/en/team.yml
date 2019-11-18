@@ -19,6 +19,7 @@ member  :
     designation   : Ph.D Candidate
     description   : >
       Mobile Sensing System and Data Calibration
+    year   : 2013
    # facebookURL   : https://www.facebook.com/
    # twitterURL    : https://twitter.com/
    # gplusURL      : https://plus.google.com/
@@ -29,6 +30,7 @@ member  :
     designation   : Ph.D Student
     description   : >
       Mobile and Ubiquitous Computing
+    year   : 2015
    # facebookURL   : https://www.facebook.com/
    # twitterURL    : https://twitter.com/
    # gplusURL      : https://plus.google.com/
@@ -39,6 +41,7 @@ member  :
     designation   : Ph.D Student
     description   : >
       Environment Big Data
+    year   : 2015
    # facebookURL   : https://www.facebook.com/
    # twitterURL    : https://twitter.com/
    # gplusURL      : https://plus.google.com/
@@ -49,73 +52,84 @@ member  :
     designation   : Ph.D Student
     description   : >
       Trajectory Data Mining
+    year   : 2016
 
   - image         : images/team/yuqing.png
     name          : Yuqing Gao
-    designation   : Ph.D Student
+    designation   : Ph.D Candidate 
     description   : >
       Machine Learning, Deep Learning and Time Series Analysis in Structural Health Monitoring and Earthquake Engineering
+    year   : 2014
 
   - image         : images/team/amo.jpg
     name          : Kwemena Amo-Dadey
     designation   : Ph.D Student
     description   : >
       Social Computing, Natural Language Processing and Applications
+    year   : 2017
 
   - image         : images/team/mafei.jpg
     name          : Fei Ma
     designation   : Ph.D Student
     description   : >
       Deep Learning and Social Computing
+    year   : 2017
 
   - image         : images/team/mingyang.jpg
     name          : Mingyang Li
     designation   : Ph.D Student
     description   : >
       Adversarial Examples, Anomaly Detection
+    year   : 2017
 
   - image         : images/team/zhaofeng.png
     name          : Feng Zhao
     designation   : Ph.D Student
     description   : >
       Clustering Algorithm and Information Clustering
+    year   : 2017
 
   - image         : images/team/xinyi.jpg
     name          : Xinyi Tong
     designation   : Ph.D Student
     description   : >
       Machine Learning Theory
+    year   : 2018
 
   - image         : images/team/zhiyuan.jpg
     name          : Zhiyuan Wu
     designation   : Ph.D Student
     description   : >
       Environment Big Data
+    year   : 2018
 
   - image         : images/team/liguodong.jpg
     name          : Guodong Li
     designation   : Ph.D Student
     description   : >
       IOT，Sensor System，Learning Theory and Its Application
+    year   : 2019
 
   - image         : images/team/ziyan.jpg
     name          : Ziyan Zheng
     designation   : Ph.D Student
     description   : >
       Learning Theory and Its Application
+    year   : 2019
 
   - image         : images/team/weida.jpg
     name          : Weida Wang
     designation   : Ph.D Student
     description   : >
       Learning Theory, Information Theory and Its Application
+    year   : 2019
 
   - image         : images/team/tanyang.jpg
     name          : Yang Tan
     designation   : Ph.D Student
     description   : >
       Transfer Learning, Computer Vision
-
+    year   : 2019
 
 #phd over
 #master begin
@@ -124,188 +138,217 @@ member  :
     designation   : Master
     description   : >
       Indoor Vibration
+    year   : 2016
 
   - image         : images/team/wuxiangyu.jpg
     name          : Xiangyu Wu
     designation   : Master Student
     description   : >
       Environmental Big Data
+    year   : 2017
 
   - image         : images/team/xietianwen.jpg
     name          : Tianwen Xie
     designation   : Master Student
     description   : >
       Natural Language Processing
+    year   : 2017
 
   - image         : images/team/qianjin.jpeg
     name          : Qianjin Du
     designation   : Master Student
     description   : >
       Natural Language Processing
+    year   : 2017
 
   - image         : images/team/changjin.jpg
     name          : Changjin Liu
     designation   : Master Student
     description   : >
       Transfer Learning Application in NLP Area
+    year   : 2017
 
   - image         : images/team/lushi.jpg
     name          : Shi Lu
     designation   : Master Student
     description   : >
       Generative Adversarial Networks
+    year   : 2017
 
   - image         : images/team/hanling.png
     name          : Hanling Wang
     designation   : Master Student
     description   : >
       Image Interpretion Based on Small Samples
-
+    year   : 2017
 
   - image         : images/team/zhangwei.jpg
     name          : Wei Zhang
     designation   : Master Student
     description   : >
       Affective Computing
+    year   : 2017
 
   - image         : images/team/Shivaranjani.jpg
     name          : Shivaranjani D
     designation   : Master Student
     description   : >
       Effective Computing
+    year   : 2018
 
   - image         : images/team/weijia.jpg
     name          : Weijia Feng
     designation   : Master Student
     description   : >
       Natural Language Processing and Text Comprehension
+    year   : 2018
 
   - image         : images/team/jielian.jpg
     name          : Jielian Huang
     designation   : Master Student
     description   : >
       Urban Computing
+    year   : 2018
 
   - image         : images/team/sunwangbin.jpg
     name          : Wangbin Sun
     designation   : Master Student
     description   : >
       Multimodal Learning and Affective Computing
+    year   : 2018
 
   - image         : images/team/yihua.jpg
     name          : Yihua Liang
     designation   : Master Student
     description   : >
       Affective Computing
+    year   : 2018
 
   - image         : images/team/liulu.jpg
     name          : Lu Liu
     designation   : Master Student
     description   : >
       Natural Language Processing
+    year   : 2018
 
   - image         : images/team/weitao.png
     name          : Weitao Tang
     designation   : Master Student
     description   : >
       Affective Computing
+    year   : 2018
 
   - image         : images/team/zifeng.jpg
     name          : Zifeng Wang
     designation   : Master Student
     description   : >
       Computer Vision
+    year   : 2018
 
   - image         : images/team/liangsheng.jpg
     name          : Liangsheng Xu
     designation   : Master Student
     description   : >
       Machine Learning, Computer Vision and Image Segmentation Recognition
- 
+    year   : 2018
+
   - image         : images/team/zelong.jpg
     name          : Zelong Yang
     designation   : Master Student
     description   : >
       Trajectory Data Mining
+    year   : 2018
 
   - image         : images/team/sikai.png
     name          : Sikai Yin
     designation   : Master Student
     description   : >
       Algorithm
+    year   : 2018
 
   - image         : images/team/yuyang.jpg
     name          : Yuyang Zhang
     designation   : Master Student
     description   : >
       Internet of Things
+    year   : 2018
 
   - image         : images/team/bunchalit.jpg
     name          : Eua-Arporn Bunchalit
     designation   : Master Student
     description   : >
       Internet of things and machine learning
+    year   : 2019
 
   - image         : images/team/riccado.jpg
     name          : Mattesini Riccardo
     designation   : Master Student
     description   : >
       Machine learning and robotics
+    year   : 2019
 
   - image         : images/team/jiarong.jpg
     name          : Jiarong Li
     designation   : Master Student
     description   : >
       Learning Theory, Information Theory and Its Application
+    year   : 2019
 
   - image         : images/team/lewenyuan.jpg
     name          : Lewen Yuan
     designation   : Master Student
     description   : >
       Machine Learning, Operation Research and Comprehensive Application
+    year   : 2019
 
   - image         : images/team/yicong.jpg
     name          : Yicong Li
     designation   : Master Student
     description   : >
       Machine Learning, Deep Learning, and Computer Vision
+    year   : 2019
 
   - image         : images/team/zhicheng.jpeg
     name          : Zhicheng An
     designation   : Master Student
     description   : >
       Internet of Things, Machine Learning
+    year   : 2019
 
   - image         : images/team/jingge.jpg
     name          : Jingge Wang
     designation   : Master Student
     description   : >
       Transfer Learning
+    year   : 2019
 
   - image         : images/team/honglu.jpg
     name          : Honglu Ji
     designation   : Master Student
     description   : >
       Machine Learning and Its Application, Low-Carbon Economy
+    year   : 2019
 
   - image         : images/team/yanfeng.jpg
     name          : Yanfeng Chen
     designation   : Master Student
     description   : >
       Automatic Driving, Robotic and Computer Vision
+    year   : 2019
 
   - image         : images/team/runpeng.jpg
     name          : Runpeng Yu
     designation   : Master Student
     description   : >
       Learning Theory Application
-      
+    year   : 2019
+
   - image         : images/team/luis.jpg
     name          : Luis Barragan
     designation   : Master Student
     description   : >
       IoT, Machine Learning, Operations Research
-
+    year   : 2019
 
 
 
