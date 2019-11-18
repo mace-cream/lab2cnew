@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
 }
 
-ol, ul {
+ul {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -1799,4 +1799,33 @@ a:focus, a:hover {
   padding: 20px 0;
   background: #fff;
   box-shadow: none;
+}
+
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table th,
+table td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+img {
+  max-width:100%;
+  max-height:100%;
 }

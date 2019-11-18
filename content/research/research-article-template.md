@@ -20,7 +20,7 @@ If you need a new paragraph, please leave a blank line.
 If you need to put the pictures. Please name your pictures as `fengzhao-talk.jpg` and 
 put it into `static/images/blog`. Then in this article, you can reference this picture as
 
-![](../../static/images/blog/name-talk.png)
+![](../../../images/blog/name-talk.jpg)
 
 ## Model
 
