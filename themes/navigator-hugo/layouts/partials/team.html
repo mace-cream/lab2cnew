@@ -16,7 +16,9 @@
                     </div>
                 </div>
             </div>
+            <h3> Ph.D Student </h3>
             <div class="row justify-content-center">
+            
                 {{ range where .member "designation" "Ph.D Student" }}
                     {{ "<!-- team member -->" | safeHTML }}
                     <div class="col-12 col-md-2 col-sm-6">
@@ -35,7 +37,9 @@
                     {{ "<!-- end team member -->" | safeHTML }}
                 {{ end }}
             </div>
+            <h3> Master Student </h3>
             <div class="row justify-content-center">
+            
                 {{ range where .member "designation" "Master Student" }}
                     {{ "<!-- team member -->" | safeHTML }}
                     <div class="col-12 col-md-2 col-sm-6">
@@ -54,7 +58,9 @@
                     {{ "<!-- end team member -->" | safeHTML }}
                 {{ end }}
             </div>
+            <h3> Alumni </h3>
             <div class="row justify-content-center">
+            
                 {{ range where .member "designation" "Alumni" }}
                     {{ "<!-- team member -->" | safeHTML }}
                     <div class="col-12 col-md-2 col-sm-6">
