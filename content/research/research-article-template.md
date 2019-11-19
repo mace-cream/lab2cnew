@@ -27,7 +27,7 @@ put it into `static/images/blog`. Then in this article, you can reference this p
 ​In this section, give a short description of your model used. You can typesetting math
 as \\( a^2+b^2 = c^2 \\).
 
-###  subsection 1
+###  Subsection 1
 
 You can use subsections to structure your article.
 
