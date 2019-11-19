@@ -1,4 +1,5 @@
-### Artificial Intelligence
+## Artificial Intelligence
+### Analytics
 [1] **An information\-theoretic metric of transferability for task transfer learning\.**
 
 Yajie Bao, Yang Li, Shao\-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas\.
@@ -12,7 +13,7 @@ Pga: physics guided and adaptive approach for mobile fine\-grained air pollution
 In *Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers*, 1321–1330\. ACM, 2018\.  
 [4] Shao\-Lun Huang, Xiangxiang Xu, Lizhong Zheng, and Gregory W Wornell\.
 An information theoretic interpretation to deep neural networks\.
-*arXiv preprint arXiv:1905\.06600*, 2019\.  
+*arXiv preprint arXiv:1905\.06600*, 2019\.
 [5] Shao\-Lun Huang and Xiangxiang Xu\.
 On the sample complexity of hgr maximal correlation functions\.
 *arXiv preprint arXiv:1907\.00393*, 2019\.  
