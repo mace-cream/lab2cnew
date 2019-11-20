@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
 # Site Params
 [params]
-    logo = "images/logo.png"
+    logo = "images/logo.svg"
 
     # Gestion des langues : FR / EN / NL / DE
     [[Params.listeLangues]]
@@ -36,7 +36,7 @@ DefaultContentLanguage = "en"
     dateFormat = "2 January 2006"
 
     home = "FR Home"
-    logo = "images/logo.png"
+    logo = "images/logo.svg"
     menufixed = false
 
     footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
@@ -103,7 +103,7 @@ DefaultContentLanguage = "en"
     dateFormat = "January 2, 2006"
 
     home = "Home"
-    logo = "images/logo.png"
+    logo = "images/logo.svg"
     menufixed = false
 
     footerDescription = "4I Lab is an innovative laboratory in Tsinghua-Berkley Shenzhen Institute"
