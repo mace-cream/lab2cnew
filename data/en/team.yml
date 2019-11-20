@@ -6,7 +6,7 @@ subtitle: Our team consists of PhD students and master students
 member  :
   - image         : images/team/xiangxiang.png
     name          : Xiangxiang Xu
-    designation   : Ph.D Candidate
+    designation   : Ph.D Student
     description   : >
       Learning Theory, Information Theory and Its Application
     year   : 2014
@@ -16,7 +16,7 @@ member  :
 
   - image         : images/team/liuxinyu.png
     name          : Xinyu Liu
-    designation   : Ph.D Candidate
+    designation   : Ph.D Student
     description   : >
       Mobile Sensing System and Data Calibration
     year   : 2013
@@ -349,6 +349,37 @@ member  :
     description   : >
       IoT, Machine Learning, Operations Research
     year   : 2019
+
+  - image         : images/team/qingyang.jpg
+    name          : Qingyang Zhao
+    designation   : Alumni
+    description   : >
+      Alibaba
+    year   : 2016
+
+
+  - image         : images/team/lilu.jpg
+    name          : Lu Li
+    designation   : Alumni
+    description   : >
+      Baidu
+    year   : 2016
+
+  - image         : images/team/jialin.jpg
+    name          : Jialin Li
+    designation   : Alumni
+    description   : >
+      Tencent
+    year   : 2016
+
+  - image         : images/team/yajie.jpg
+    name          : Yajie Bao
+    designation   : Alumni
+    description   : >
+      The University of Georgia
+    year   : 2016
+
+
 
 
 
