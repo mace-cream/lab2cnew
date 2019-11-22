@@ -14,8 +14,6 @@ deploy_job:
   stage: deploy
   tags:
     - website
-  only:
-    - self-hosted-gitlab
   dependencies:
     - build_job
   script:
