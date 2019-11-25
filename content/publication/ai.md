@@ -1,7 +1,5 @@
 ## Artificial Intelligence
-
 ### AI Theory
-
 [1] **The Geometric Structure of Generalized Softmax Learning**
 Xiangxiang Xu and Shao-Lun Huang and Lizhong Zheng and Lin Zhang. In *IEEE Information Theory Workshop, ITW 2018, Guangzhou, China, November 25-29, 2018*. 2018. [Link](https://doi.org/10.1109/ITW.2018.8613303) 	
 [2] **An Information Theoretic Interpretation to Deep Neural Networks**
@@ -19,7 +17,6 @@ Shao-Lun Huang and Xiangxiang Xu and Lizhong Zheng. In *CoRR*. 2019. [Link](http
 Feng Zhao and Fei Ma and Yang Li and Shaolun Huang and Lin Zhang. In *International Conference on Neural Information Processing*. 2019. 	
 
 ### AI Analytics
-
 [1] **A maximal correlation embedding method for multilabel human context recognition**
 Li, Lu and Li, Yang and Xu, Xiangxiang and Zhang, Lin. In *Proceedings of the 18th International Conference on Information Processing in Sensor Networks*. 2019. 	
 [2] **An efficient approach to informative feature extraction from multimodal data**
@@ -32,7 +29,6 @@ Wang, Hanling and Li, Mingyang and Ma, Fei and Huang, Shao-Lun and Zhang, Lin. I
 Wang, Zifeng and Zhu, Hong and Dong, Zhenhua and He, Xiuqiang and Huang, Shao-Lun. In *34th AAAI Conference on Artificial Intelligence (AAAI)*. 2020. 	
 
 ### AI Application
-
 [1] **Knowledge-based trajectory completion from sparse GPS samples**
 Li, Yang and Li, Yangyan and Gunopulos, Dimitrios and Guibas, Leonidas. In *Proceedings of the 24th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*. 2016. 	
 [2] **Hap: Fine-grained dynamic air pollution map reconstruction by hybrid adaptive particle filter**
@@ -60,4 +56,4 @@ Zygouras, Nikolaos and Panagiotou, Nikolaos and Gunopulos, Dimitrios and Li, Yan
 [13] **An End-to-End Learning Approach for Multimodal Emotion Recognition: Extracting Common and Private Information**
 Ma, Fei and Zhang, Wei and Li, Yang and Huang, Shao-Lun and Zhang, Lin. In *2019 IEEE International Conference on Multimedia and Expo (ICME)*. 2019. [Link](https://ieeexplore.ieee.org/document/8784815) 	
 [14] **MSSTN: Multi-Scale Spatial Temporal Network for Air Pollution Prediction**
-Wu, Zhiyuan and Wang, Yue and Zhang, Lin. In *Proceedings of IEEE International Conference on Big Data 2019*. 2019. 
+Wu, Zhiyuan and Wang, Yue and Zhang, Lin. In *Proceedings of IEEE International Conference on Big Data 2019*. 2019. 	
