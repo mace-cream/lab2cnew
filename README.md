@@ -12,6 +12,10 @@ Check directory `data/en/team.yml`, make sure your photo is 670X670 pixels.
 Check directory `content/blog`, add new posts or edit existing posts.
 
 ## How to put pictures in our post
+Put your pictures in `static/images/blog`.
+
+## How to create new research articles
+Check `content/research`; Copy a file from `research-article-template.md` and change it to your custom names; Change the contents of your md file and you are done.
 
 ## How to check build error
 On your commit to this repository, gitlab will automatically build the website source code. If the build is 
