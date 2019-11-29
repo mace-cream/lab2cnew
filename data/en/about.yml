@@ -17,3 +17,9 @@ item    :
     title : Prof. Yang Li
     description : >
       Yang Li obtained her Ph.D. degree in Computer Science from Stanford University in 2017 and post doctor degree from Tsinghua-Berkeley Shenzhen Institute in 2019. Her research interest includes transfer learning, information theory and feature embedding.
+
+  - positionRight : true
+    image : images/about/dingwenbo.jpg
+    title : Prof. Wenbo Ding 
+    description : >
+      Wenbo Ding received the B.E and Ph.D. degrees (both with the highest honors) from the Department of Electronic Engineering, Tsinghua University, Beijing, China, in 2011 and 2016, respectively. He worked as a postdoctoral research fellow at Georgia Tech, Atlanta, GA, under the supervision of Professor Z. L. Wang from 2016 to 2019. His research interests include self-powered sensors, energy harvesting, wearable devices for health and soft robotics with the help of signal processing and machine learning.
