@@ -56,7 +56,7 @@
 	
 }
 
-.nav-tabs-robotic li.active a:focus {
+.nav-tabs-robotic li a.active {
 	color: #fff;
 	background-color: #444;
 	border: 0;
@@ -65,7 +65,7 @@
     padding-right: 30px;
     padding-left: 30px;
 }
-.nav-tabs-robotic-light li.active a:focus {
+.nav-tabs-robotic-light li a.active {
 	color: #929cb1;
 	background-color: #929cb1;
 	border-top-color: #4da0d1;
