@@ -1,6 +1,7 @@
     {{ "<!-- Service Section Start -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "css/publication-style.css" | absURL }}">    
     <section class="service-list section bg-gray">
+        <a name="top"></a>
         <div class="row">
             <div class="col-md-12">
                 <ul class="nav nav-tabs nav-tabs-robotic nav-tabs-robotic-light" id="myTab">
@@ -92,6 +93,7 @@
                     {{ with .Site.GetPage "/publication/ai.md" }}{{ .Content }}{{ end }}
                     {{ with .Site.GetPage "/publication/iot.md" }}{{ .Content }}{{ end }}                    
                     </div>
+                    <a href="#top" style="text-align:center;">Back to top</a>
                 </div> <!--end tab-content-->
             </div> <!--end col-md-12-->
         </div>
