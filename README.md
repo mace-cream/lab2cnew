@@ -3,7 +3,8 @@
 ## How to maintain this website
 
 This website is based on Hugo static site generator.
-It is deployed to [lab2cnew](http://10.8.4.170/lab2cnew/).
+It is deployed to [lab2cnew](http://10.8.4.170/lab2cnew/) for intranet
+and [mace-cream](https://mace-cream.github.io/) for outside access.
 
 ## How to edit our team
 Check directory `data/en/team.yml`, make sure your photo is 670X670 pixels.
@@ -34,3 +35,5 @@ docker-compose start
 ```
 ## Local Development
 Install [hugo](https://gohugo.io/getting-started/installing/).
+Build by `hugo -b http://127.0.0.1:8000`. You can not build by other ip addresses since
+the BaiduMap API is bound with `*.github.io,10.8.4.170,127.0.0.1`.
