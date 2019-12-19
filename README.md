@@ -37,3 +37,12 @@ docker-compose start
 Install [hugo](https://gohugo.io/getting-started/installing/).
 Build by `hugo -b http://127.0.0.1:8000`. You can not build by other ip addresses since
 the BaiduMap API is bound with `*.github.io,10.8.4.170,127.0.0.1`.
+
+## Push to Github
+Since the master branch is reserved for publication, you should use `dev` branch to push to github.
+```shell
+git checkout dev
+git merge master
+git push github dev
+git checkout master
+```
