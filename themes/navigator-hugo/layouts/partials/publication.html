@@ -4,20 +4,20 @@
         <a name="top"></a>
         <div class="row">
             <div class="col-md-12">
-                <ul class="nav nav-tabs nav-tabs-robotic nav-tabs-robotic-light" id="myTab">
-                    <li class="nav-item"><a href="#newpub" data-toggle="tab" class="active">Selected New Publication</a></li>
-                    <li class="nav-item"><a href="#ai" data-toggle="tab">Artificial Intelligence</a></li>
-                    <li class="nav-item"><a href="#iot" data-toggle="tab">Internet of Things</a></li>
-                    <li class="nav-item"><a href="#older_pub" data-toggle="tab">Older Publications</a></li>
+                <ul class="nav nav-tabs" id="myTab">
+                    <li class="nav-item"><a href="#newpub" data-toggle="tab" class="nav-link active">Selected New Publication</a></li>
+                    <li class="nav-item"><a href="#ai" data-toggle="tab" class="nav-link">Artificial Intelligence</a></li>
+                    <li class="nav-item"><a href="#iot" data-toggle="tab" class="nav-link">Internet of Things</a></li>
+                    <li class="nav-item"><a href="#older_pub" data-toggle="tab" class="nav-link">Older Publications</a></li>
                 </ul>
                 <div class="tab-content">
-                    <div class="tab-pane" id="ai">
+                    <div class="tab-pane fade" id="ai">
                     {{ with .Site.GetPage "/publication/ai.md" }}{{ .Content }}{{ end }}
                     </div>
-                    <div class="tab-pane" id="iot">
+                    <div class="tab-pane fade" id="iot">
                     {{ with .Site.GetPage "/publication/iot.md" }}{{ .Content }}{{ end }}                    
                     </div>                    
-                    <div class="tab-pane" id="older_pub">
+                    <div class="tab-pane fade" id="older_pub">
                         <ul><li> Yiming Liu, Victor Li, Ka-cheong Leung, Lin Zhang, “Performance Improvement of Topology-Transparent Broadcast Scheduling in Mobile Ad Hoc Networks, IEEE Transactions on Vehicular Technology (IEEE TVT) (Accepted)
                         </li><li> Xinyu Mao, Shiyu Liu, Lin Zhang, "Energy-Delay Region of Low Duty Cycle Wireless Sensor Networks for Critical Data Collection," in Proc. Information Theory and Application Workshop, UCSD, Feb. 2014
                         </li><li>Yiming Liu, Victor Li, Ka-cheong Leung, Lin Zhang, “Distributed Multi-Channel Topology-Transparent Broadcast Scheduling in Ad Hoc Networks,”Proceedings of the IEEE Wireless Communications and Networking Conference (IEEE WCNC 2014), Istanbul, Turkey, 6-9 April 2014.
@@ -89,7 +89,7 @@
                         </li><li> Chen Chen, Hao Su, Qixin Huang, Lin Zhang, Leo Guibas, "Pathlet Learning for Compressing and Planning Trajectories" in Proc. ACM SIGSPATIAL GIS 2013, Orlando, FL, USA, Nov. 2013. 
                         </li></ul>
                     </div>
-                    <div class="tab-pane active" id="newpub">
+                    <div class="tab-pane fade show active" id="newpub">
                     {{ with .Site.GetPage "/publication/ai.md" }}{{ .Content }}{{ end }}
                     {{ with .Site.GetPage "/publication/iot.md" }}{{ .Content }}{{ end }}                    
                     </div>
