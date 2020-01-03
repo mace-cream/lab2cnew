@@ -18,6 +18,10 @@ Put your pictures in `static/images/blog`.
 ## How to create new research articles
 Check `content/research`; Copy a file from `research-article-template.md` and change it to your custom names; Change the contents of your md file and you are done.
 
+How to add new menu entry
+
+First create a new directory called A in `content` (copied from others in the same directory). And then create another directory A in `themes/navigator-hugo/layouts`(copied from others in the same directory). Finally create a file `A.html` in `themes/navigator-hugo/layouts`.
+
 ## How to check build error
 On your commit to this repository, gitlab will automatically build the website source code. If the build is 
 successful, the build artifact will be deployed to our manage node web directory. To check whether the build is successful and

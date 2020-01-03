@@ -182,9 +182,13 @@ DefaultContentLanguage = "en"
         url     = "dataset"
         weight  = 6
     [[menu.nav]]
+        name    = "video"
+        url     = "video"
+        weight  = 7        
+    [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 7
+        weight  = 8
 
     # Footer Service Menu
     [[menu.publication]]
@@ -196,9 +200,13 @@ DefaultContentLanguage = "en"
         url     = "publication"
         weight  = 2
     [[menu.publication]]
+        name    = "video"
+        url     = "video"
+        weight  = 3        
+    [[menu.publication]]
         name    = "contact"
         url     = "contact"
-        weight  = 3
+        weight  = 4
 
     # Footer Quick links Menu
     [[menu.quicklink]]
