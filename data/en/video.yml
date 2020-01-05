@@ -3,3 +3,5 @@ topTitle: Our presentation
 students:
   - name : Fei_Ma
     title : An end-to-end Learning Approach for Multimodal Emotion Recognition
+  - name : Yang_Tan
+    title : Cross-scale large-parallax Warping for Reference-based Super-resolution
