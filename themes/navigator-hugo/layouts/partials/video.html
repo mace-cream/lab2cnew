@@ -1,7 +1,30 @@
-    {{ "<!-- Service Section Start -->" | safeHTML }}
-    <section class="service-list section bg-gray">
-        <div class="container">
-            {{ .Content }}
-        </div>
-    </section>
-    {{ "<!-- Service Section Start -->" | safeHTML }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.video }}
+ <section class="team section bg-gray" id="team">
+    <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
+                    </div>
+                </div>
+            </div>
+            <h3> Student </h3>
+            <div class="row justify-content-center">
+                {{ range where .students }}
+            <div class="col-md-6">
+                <div class="video-player">
+                    <img class="img-fluid rounded" src="https://themes.gohugo.io/theme/navigator-hugo/images/slider/video-player-thumb.jpg" alt="video-thumb">
+                    <a class="play-icon" href="javascript:void(0)">
+                        <i class="tf-ion-play" data-video="{{ name }}"></i>
+                    </a>
+                </div>
+                <div class="member-content">
+                    <p>{{ .title }}</p>
+                </div>
+            </div>
+                {{ end }}
+            </div>
+    </div>
+ </section>
+{{ end }}
