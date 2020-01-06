@@ -50,3 +50,8 @@ git merge master
 git push github dev
 git checkout master
 ```
+
+## How to compress video
+```shell
+ffmpeg -i input.mp4 -s 960x540 -c:a copy output.mp4
+```

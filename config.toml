@@ -19,7 +19,6 @@ DefaultContentLanguage = "en"
 # Site Params
 [params]
     logo = "images/logo.svg"
-
     # Gestion des langues : FR / EN / NL / DE
     [[Params.listeLangues]]
     code = "fr"

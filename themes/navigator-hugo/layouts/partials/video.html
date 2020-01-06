@@ -14,9 +14,9 @@
                 {{ range .students }}
             <div class="col-md-6">
                 <div class="video-player">
-                    <img class="img-fluid rounded" src="{{ .Site.Params.baseURL }}/images/video/{{ .name }}.png" alt="video-thumb">
+                    <img class="img-fluid rounded" src="{{ $.Site.BaseURL }}/images/video/{{ .name }}.png" alt="video-thumb">
                     <a class="play-icon" href="javascript:void(0)">
-                        <i class="tf-ion-play" data-video="{{ .Site.Params.baseURL }}/video/{{ .name }}.mp4"></i>
+                        <i class="tf-ion-play" data-video="{{ $data.video.studentVideoURL }}/{{ .name }}.mp4"></i>
                     </a>
                 </div>
                 <div class="member-content">
