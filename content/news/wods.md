@@ -9,7 +9,7 @@ Tsinghua-Berkeley Shenzhen Institute (TBSI) launched its inaugural Workshop on D
 
 On morning of Dec. 17th, professor Shao-lun Huang hosted the workshop opening and introduced the goal of TBSI WODS to audiences. The goal of WODS is to focus on the discussion of scientific research itself and the Industry-University-Research Integration.
 
-![](../../static/images/blog/wods2.jpg)
+![](../../../images/blog/wods2.jpg)
 
 After the opening ceremony, professor Stark Draper from University of Toronto gave a keynote speech on “Large Scale Linear Programming Decoding via the Alternating Direction Method of Multipliers”.
 
