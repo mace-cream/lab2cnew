@@ -23,3 +23,7 @@ item    :
     title : Prof. Wenbo Ding 
     description : >
       Wenbo Ding received the B.E and Ph.D. degrees (both with the highest honors) from the Department of Electronic Engineering, Tsinghua University, Beijing, China, in 2011 and 2016, respectively. He worked as a postdoctoral research fellow at Georgia Tech, Atlanta, GA, under the supervision of Professor Z. L. Wang from 2016 to 2019. His research interests include self-powered sensors, energy harvesting, wearable devices for health and soft robotics with the help of signal processing and machine learning.
+  - positionRight : false
+    image : images/about/yemin.png
+    description : >
+      Min Ye received his B.S. in Electrical Engineering from Peking University, Beijing, China in 2012, and his Ph.D. in the Department of Electrical and Computer Engineering, University of Maryland, College Park in 2017. He then spent two years as a postdoctoral researcher at Princeton University. Since 2019, he has been an assistant professor in the Data Science and Information Technology Research Center, Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China. He received the 2017 IEEE Data Storage Best Paper Award. His research interests include coding theory, differential privacy, machine learning and information theory.
