@@ -11,7 +11,9 @@ The surveillance of air pollution is becoming a highly concerned issue for city 
 The research problems we are interested in include:
 
 ***- Data Calibaration*** Ensuring the system accuracy and stability, minimizing the impact from sensor drift and response delay;
+
 ***- Reconstruction & Prediction*** Predicting pollution level at unobserved sptial-temporal coordinates, using scene-specific machine learning methods;
+
 ***- Pollution Mining*** Investigating the pollution sources and causes with information metric. 
 
 
