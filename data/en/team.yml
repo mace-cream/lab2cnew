@@ -365,7 +365,14 @@ member  :
     description   : >
       IoT, Machine Learning, Operations Research
     year   : 2019
-    
+
+  - image         : images/team/zhwang.jpg
+    name          : Zihan Wang
+    designation   : Master Student
+    description   : >
+      Internet of Things, Self-Powered Sensor System
+    year   : 2019
+
   - image         : images/team/hxzhang.jpg
     name          : Hengxi Zhang
     designation   : Master Student
