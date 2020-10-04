@@ -351,6 +351,83 @@ member  :
     description   : >
       IoT, Machine Learning, Operations Research
     year   : 2019
+    
+  - image         : images/team/hxzhang.jpg
+    name          : Hengxi Zhang
+    designation   : Master Student
+    description   : >
+      Multiagent Control, Reinforcement Learning
+    year   : 2020
+
+  - image         : images/team/jsfan.jpg
+    name          : Jiashuo Fan
+    designation   : Master Student
+    description   : >
+      Transfer Learning
+    year   : 2020
+    
+  - image         : images/team/zdshi.jpg
+    name          : Zhendong Shi
+    designation   : Master Student
+    description   : >
+      Time Series Analysis, Learning Theory and Its Application
+    year   : 2020
+    
+  - image         : images/team/nshen.jpg
+    name          : Nan Shen
+    designation   : Master Student
+    description   : >
+      Transfer Learning
+    year   : 2020
+
+  - image         : images/team/gzchen.jpg
+    name          : Nan Shen
+    designation   : Master Student
+    description   : >
+      Transfer Learning, Multimodel Learning
+    year   : 2020
+
+  - image         : images/team/ywhe.jpg
+    name          : Yiwen He
+    designation   : Master Student
+    description   : >
+      Machine Learning in Financial Forecasting
+    year   : 2020
+
+  - image         : images/team/qqchen.jpg
+    name          : Yiwen He
+    designation   : Master Student
+    description   : >
+      Data Mining, Social Network
+    year   : 2020
+    
+  - image         : images/team/wdli.jpg
+    name          : Wanda Li
+    designation   : Master Student
+    description   : >
+      Transfer Learning, Social Network
+    year   : 2020
+    
+  - image         : images/team/jlguo.jpg
+    name          : JunLin Guo
+    designation   : Master Student
+    description   : >
+      Deep Learning for Time Series Forecasting
+    year   : 2020
+
+  - image         : images/team/yzmao.jpg
+    name          : Yuzhu Mao
+    designation   : Master Student
+    description   : >
+      Federated Learning and Crowdsourcing
+    year   : 2020
+
+  - image         : images/team/jhyin.jpg
+    name          : Jihong Yin
+    designation   : Master Student
+    description   : >
+      Human-machine Interaction, IOT, Machine Learning
+    year   : 2020
 
   - image         : images/team/qingyang.jpg
     name          : Qingyang Zhao
