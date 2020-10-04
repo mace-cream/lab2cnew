@@ -132,6 +132,20 @@ member  :
     description   : >
       Transfer Learning, Computer Vision
     year   : 2019
+    
+  - image         : images/team/yyan.jpg
+    name          : Yi Yan
+    designation   : Ph.D Student
+    description   : >
+      Bayesian Neural Network
+    year   : 2020
+
+  - image         : images/team/jxu.jpg
+    name          : Jian Xu
+    designation   : Ph.D Student
+    description   : >
+      Distributed Learning and Its Application
+    year   : 2020
 
 #phd over
 #master begin
