@@ -4,26 +4,26 @@ title   : Our Team.
 subtitle: Our team consists of PhD students and master students
 
 member  :
-  - image         : images/team/xiangxiang.png
-    name          : Xiangxiang Xu
-    designation   : Ph.D Student
-    description   : >
-      Learning Theory, Information Theory and Its Application
-    year   : 2014
-   # email    : https://twitter.com/
-   # gplusURL      : https://plus.google.com/
-   # dribbbleURL   : https://dribbble.com/
+#   - image         : images/team/xiangxiang.png
+#     name          : Xiangxiang Xu
+#     designation   : Ph.D Student
+#     description   : >
+#       Learning Theory, Information Theory and Its Application
+#     year   : 2014
+#   # email    : https://twitter.com/
+#   # gplusURL      : https://plus.google.com/
+#   # dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/liuxinyu.png
-    name          : Xinyu Liu
-    designation   : Ph.D Student
-    description   : >
-      Mobile Sensing System and Data Calibration
-    year   : 2013
-   # facebookURL   : https://www.facebook.com/
-   # twitterURL    : https://twitter.com/
-   # gplusURL      : https://plus.google.com/
-   # dribbbleURL   : https://dribbble.com/
+#   - image         : images/team/liuxinyu.png
+#     name          : Xinyu Liu
+#     designation   : Ph.D Student
+#     description   : >
+#       Mobile Sensing System and Data Calibration
+#     year   : 2013
+#   # facebookURL   : https://www.facebook.com/
+#   # twitterURL    : https://twitter.com/
+#   # gplusURL      : https://plus.google.com/
+#   # dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/zhoutian.png
     name          : Tian Zhou
@@ -158,51 +158,51 @@ member  :
 
   - image         : images/team/wuxiangyu.jpg
     name          : Xiangyu Wu
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Environmental Big Data
+      
     year   : 2017
 
   - image         : images/team/xietianwen.jpg
     name          : Tianwen Xie
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Natural Language Processing
+      
     year   : 2017
 
   - image         : images/team/qianjin.jpeg
     name          : Qianjin Du
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Natural Language Processing
+      
     year   : 2017
 
   - image         : images/team/changjin.jpg
     name          : Changjin Liu
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Transfer Learning Application in NLP Area
+      
     year   : 2017
 
   - image         : images/team/lushi.jpg
     name          : Shi Lu
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Generative Adversarial Networks
+      
     year   : 2017
 
   - image         : images/team/hanling.png
     name          : Hanling Wang
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Image Interpretion Based on Small Samples
+      
     year   : 2017
 
   - image         : images/team/zhangwei.jpg
     name          : Wei Zhang
-    designation   : Master Student
+    designation   : Alumni
     description   : >
-      Affective Computing
+      
     year   : 2017
 
   - image         : images/team/Shivaranjani.jpg
@@ -450,6 +450,20 @@ member  :
       Human-machine Interaction, IOT, Machine Learning
     year   : 2020
 
+  - image         : images/team/liuxinyu.png
+    name          : Xinyu Liu
+    designation   : Ph.D Student
+    description   : >
+      Post-Doc
+    year   : 2013
+
+  - image         : images/team/xiangxiang.png
+    name          : Xiangxiang Xu
+    designation   : Alumni
+    description   : >
+      MIT Post-Doc
+    year   : 2014
+
   - image         : images/team/qingyang.jpg
     name          : Qingyang Zhao
     designation   : Alumni
@@ -485,8 +499,3 @@ member  :
     description   : >
       Apple. US.
     year   : 2016
-
-
-
-
-
