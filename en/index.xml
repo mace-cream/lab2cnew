@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4I Lab</title>
+    <link>https://mace-cream.github.io/en/</link>
+    <description>Recent content on 4I Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mace-cream.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020 TBSI Workshop on Learning Theory</title>
+      <link>https://mace-cream.github.io/en/news/wolt2/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/wolt2/</guid>
+      <description>The second annual TBSI Workshop on Learning Theory was held successfully at Shenzhen Institute for Talents Development during July 20-22, 2020. This three-day workshop drew more than 67 local attendees and 63 remote attendees worldwide and brought together 24 academic and industry leaders to share their vision and insight about future research in machine learning.
+Eight keynote speeches were delivered by renounced researchers from University of California at Berkeley, University of Maryland, Princeton University, University of Texas at Austin, Carnegie Mellon University, Georgia Institute of Technology, City University of Hong Kong, Shenzhen University.</description>
+    </item>
+    
+    <item>
+      <title>TBSI’s First Workshop on Data Science successfully held at Shenzhen Institute for Talents Development</title>
+      <link>https://mace-cream.github.io/en/news/wods/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/wods/</guid>
+      <description>Tsinghua-Berkeley Shenzhen Institute (TBSI) launched its inaugural Workshop on Data Science (TBSI-WODS) at Shenzhen Institute for Talents Development from December 17 to 19. The 3-day workshop featured keynote speeches, invited talks, discussions and competitions on the theme of data science theories and applications, bringing in renowned researchers from universities such as Princeton, Yale, University of California at Berkeley, University of California at San Diego, University of Texas at Austin, University of Toronto, Carnegie Mellon University, and Georgia Institute of Technology.</description>
+    </item>
+    
+    <item>
+      <title>Your research title</title>
+      <link>https://mace-cream.github.io/en/research/research-article-template/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/research-article-template/</guid>
+      <description>Your Research Area Title Introduction ​This article is a short introduction to your current research. It is equivalent to your several published or under-reviewed papers.
+In this section, please give a short introduction of your research area. You can use bold or italic formatting for emphasis.
+If you need a new paragraph, please leave a blank line.
+If you need to put the pictures. Please name your pictures as fengzhao-talk.</description>
+    </item>
+    
+    <item>
+      <title>The Transferability Problem</title>
+      <link>https://mace-cream.github.io/en/research/the_transferability_problem/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/the_transferability_problem/</guid>
+      <description>Introduction Task transfer learning is a learning paradigm that leverages the learned representation from a source task to help training a related target task. It is a common practice in computer vision, such as using the features of a pre-trained ImageNet 1000-class classification model on a different image recognition task by fine-tuning it with the new data. This technique has demonstrated superior performance than training without the transferred feature in many fields, such as computer vision, NLP and information systems.</description>
+    </item>
+    
+    <item>
+      <title>Fine-grained Urban Air Quality Sensing with Mobile Sensing Systems</title>
+      <link>https://mace-cream.github.io/en/research/fine-grained-urban-air-quality-sensing/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/fine-grained-urban-air-quality-sensing/</guid>
+      <description>Introduction The surveillance of air pollution is becoming a highly concerned issue for city residents and urban administrators. Due to high cost and demanding maintenance, traditional static monitoring stations cannot achieve large coverage and high spatial resolution on air pollution sensing. To address this problem, apart from official air quality stations, we deployed a sensing system which consists of both mobile and static air quality sensors. This system can provide fine-grained urban air quality sensing data and the enable further data mining and learning tasks.</description>
+    </item>
+    
+    <item>
+      <title>Trajectory Data Mining</title>
+      <link>https://mace-cream.github.io/en/research/trajectory-data-mining/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/trajectory-data-mining/</guid>
+      <description>Introduction With the deployment of ubiquitous sensors, human or vehicle trajectories obtained from call detail records or GPS devices provide abundant information of urban mobility. I have been focusing on understanding and extracting mobility patterns based on taxi GPS data, which could provide insights for traffic management authorities. These work are:
+ Discovering how transportation network companies like Didi and Uber influence taxi industry; Utilizing taxi trip data for customized bus service area design; Partitioning city regions while extracting movement patterns to understand urban mobility.</description>
+    </item>
+    
+    <item>
+      <title>2019 TBSI Workshop on Learning Theory</title>
+      <link>https://mace-cream.github.io/en/news/wolt/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/wolt/</guid>
+      <description>The goal of TBSI-WOLT is to bring together the world&amp;rsquo;s leading researchers in information theory, computer science, and related fields, as well as the next generation of outstanding young scholars, to explore deep unsolved problems about the learning theory. TBSI-WOLT aims to provide a relaxed and enthusiastic discussion environment for cutting edge research problems, in which the multi-discipline collaborations are also encouraged.</description>
+    </item>
+    
+    <item>
+      <title>TBSI 2019 Retreat Conference</title>
+      <link>https://mace-cream.github.io/en/news/retreat/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/news/retreat/</guid>
+      <description>The Tsinghua-Berkeley Shenzhen Institute (TBSI) 2019 Retreat Conference will be held in Tsinghua Shenzhen International Graduate School, University Town, Shenzhen, July 15-17. This Conference will facilitate in-depth technical discussions and networking opportunities between TBSI faculty, students, invited world-class experts and registered attendees. It features 2 plenary sessions and 7 parallel workshops featuring advanced research themes， which are all open to the external participants, including material science, environmental science, transportation systems, learning theory, 3D optical imaging, data science and precision medicine.</description>
+    </item>
+    
+    <item>
+      <title>Info Geometric</title>
+      <link>https://mace-cream.github.io/en/research/info-geometric/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/info-geometric/</guid>
+      <description>Information Geometric Characterizations and Applications of Machine Learning Algorithms With the information geometric method from information theory, we build a theoretical framework to analyze features in machine learning algorithms. This framework has revealed the essential connections between information theory and machine learning. In particular, our framework has revealed that the feature extracted in deep neural networks is the most informative feature from the perspective of information theory, which provides a theoretic interpretation of deep neural networks.</description>
+    </item>
+    
+    <item>
+      <title>Zhihu Sentiment Classification</title>
+      <link>https://mace-cream.github.io/en/research/zhihu-sentiment-classification/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/research/zhihu-sentiment-classification/</guid>
+      <description>Zhihu Sentiment Classification Introduction ​ With the development of the Internet, a large number of users on the Internet have written a lot of text,which contain the people’s sentiment. However, due to the huge amount of text, it is impossible to deal with the amount of text on the Internet only by relying on manual means. So we need a Intelligent algorithm to classify the sentiment of text automatically.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mace-cream.github.io/en/publication/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/publication/ai/</guid>
+      <description>Artificial Intelligence AI Theory [1] The Geometric Structure of Generalized Softmax Learning
+Xiangxiang Xu and Shao-Lun Huang and Lizhong Zheng and Lin Zhang. In IEEE Information Theory Workshop, ITW 2018, Guangzhou, China, November 25-29, 2018. 2018. Link [2] An Information Theoretic Interpretation to Deep Neural Networks
+Shao-Lun Huang and Xiangxiang Xu and Lizhong Zheng and Gregory W. Wornell. In IEEE International Symposium on Information Theory, ISIT 2019, Paris, France, July 7-12, 2019.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mace-cream.github.io/en/publication/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/publication/iot/</guid>
+      <description>Internet of Things IoT Environment [1] Delay Effect in Mobile Sensing System for Urban Air Pollution Monitoring
+Liu, Xinyu and Chen, Xinlei and Xu, Xiangxiang and Mai, Enhan and Noh, Hae Young and Zhang, Pei and Zhang, Lin. In Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems. 2017. [2] Individualized Calibration of Industrial-Grade Gas Sensors in Air Quality Sensing System
+Liu, Xinyu and Xu, Xiangxiang and Chen, Xinlei and Mai, Enhan and Noh, Hae Young and Zhang, Pei and Zhang, Lin.</description>
+    </item>
+    
+  </channel>
+</rss>

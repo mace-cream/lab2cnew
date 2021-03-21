@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/news/wolt2/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/news/wods/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/research-article-template/</loc>
+    <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/the_transferability_problem/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/fine-grained-urban-air-quality-sensing/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/trajectory-data-mining/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/news/wolt/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/news/retreat/</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/info-geometric/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/zhihu-sentiment-classification/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/news/</loc>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/research/</loc>
+    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/contact/</loc>
+    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/portfolio/</loc>
+    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/publication/</loc>
+    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/people/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/people/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/people/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/video/</loc>
+    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/publication/ai/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/publication/iot/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mace-cream.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mace-cream.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mace-cream.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>

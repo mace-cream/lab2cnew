@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Navigator Hugo Template">
+<meta name="author" content="Themefisher.com">
+<meta name="generator" content="Hugo 0.58.3" />
+
+<title>4I Lab</title>
+
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="https://mace-cream.github.io/images/favicon.ico" />
+
+<!-- Stylesheets -->
+<!-- Themefisher Icon font -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/themefisher-font/style.css">
+<!-- bootstrap.min css -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/bootstrap/dist/css/bootstrap.min.css">
+<!-- Lightbox.min css -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/lightbox2/dist/css/lightbox.min.css">
+<!-- Slick Carousel -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/slick-carousel/slick/slick.css">
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/slick-carousel/slick/slick-theme.css">
+<!-- Main Stylesheet -->
+
+
+<link rel="stylesheet" href="https://mace-cream.github.io/css/style.min.css" integrity="" media="screen">
+
+</head>
+<body id="body">
+        <!-- Start Preloader -->
+<div id="preloader">
+    <div class="preloader">
+        <div class="sk-circle1 sk-child"></div>
+        <div class="sk-circle2 sk-child"></div>
+        <div class="sk-circle3 sk-child"></div>
+        <div class="sk-circle4 sk-child"></div>
+        <div class="sk-circle5 sk-child"></div>
+        <div class="sk-circle6 sk-child"></div>
+        <div class="sk-circle7 sk-child"></div>
+        <div class="sk-circle8 sk-child"></div>
+        <div class="sk-circle9 sk-child"></div>
+        <div class="sk-circle10 sk-child"></div>
+        <div class="sk-circle11 sk-child"></div>
+        <div class="sk-circle12 sk-child"></div>
+    </div>
+</div>
+<!-- End Preloader --><!-- Fixed Navigation -->
+
+
+<section class="header navigation">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-expand-md">
+                    <a class="navbar-brand" href="https://mace-cream.github.io">
+                        <img src="https://mace-cream.github.io/images/logo.svg" alt="logo" height="60px">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="tf-ion-android-menu"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navigation">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="https://mace-cream.github.io">Home</a>
+                            </li>
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/people">people</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/research">research</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/publication">publication</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/news">news</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/dataset">dataset</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/video">video</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/contact">contact</a>
+                            </li>
+                            
+                            
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section><div id="content">
+
+<section class="blog-single section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <img src="https://mace-cream.github.io/images/blog/fig_1_process.png" class="w-100 mb-3" alt="Post-Image">
+                <h2>Zhihu Sentiment Classification</h2>
+                <div class="post-meta mb-5">
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <span>By</span>
+                            Tianwen Xie
+                        </li>
+                        <li class="list-inline-item">
+                            <span>at</span>
+                            <span>September 11, 2018</span>
+                        </li>
+                    </ul>
+                </div>
+                
+
+<h1 id="zhihu-sentiment-classification">Zhihu Sentiment Classification</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>​           With the development of the Internet, a large number of users on the Internet have written a lot of text,which contain the people’s sentiment. However, due to the huge amount of text, it is impossible to deal with the amount of text on the Internet only by relying on manual means. So we need a Intelligent algorithm to classify the sentiment of text automatically.</p>
+
+<p>​          Zhihu is the largest online QA community in China, with 160 million registered users, a large number of users express their opinions on that, and it is important to fetch user’s emotional tendency  to a specific topic. Our task is to develop a sentiment classification system to classify the Zhihu texts. Here are some examples of Zhihu texts. Currently, Positive and negative texts are treated as subjective texts and neutral texts are treated as objective texts.</p>
+
+<p>First, we need to establish a benchmark using Zhihu Data, try some text sentiment classification methods, and implement a higher performance subjective and objective classification algorithm. Finally, we need
+to evaluate the relevant classification methods.</p>
+
+<h2 id="datesets">Datesets</h2>
+
+<p>​           We have built two datasets, there are 20k pieces of texts about “Zhihu” in the first dataset. The second data set has about 70k pieces of texts with random topics. Four annotators do the labeling work. After the labeling is completed, 800 samples are randomly selected for manual inspection. The label’s correct rate is about 92%.  Label distribution is as follow.</p>
+
+<p><img src="../../static/images/blog/zsc1.png" alt="" /></p>
+
+<h2 id="methodology">Methodology</h2>
+
+<h3 id="1-tf-idf-traditional-classification-method">1. TF-IDF +Traditional Classification Method</h3>
+
+<p>Using TF-IDF as the feature extractor to convert a text to a vector. Secondly, feed the vector into a traditional classification model to train and predict the correspond label. After extracting the text features,
+we use traditional classification model ,Naive Bayes and Logistic Regression, to do sentiment classification.</p>
+
+<h3 id="2-word2vec-or-bert-cnn-or-rnn">2. Word2vec or Bert + CNN or RNN</h3>
+
+<p>Here is t the Basic Framework of deep learning method, Firstly, we map the text into a matrix using pretrained word2vec matrix. This word2vec matrix is obtained by training in many corpus. And then we
+build a neural network to do classification.</p>
+
+<p><img src="../../static/images/blog/zsc2.png" alt="" /></p>
+
+<h2 id="result">Result</h2>
+
+<h3 id="2w-dataset">2W dataset</h3>
+
+<table>
+<thead>
+<tr>
+<th><strong>Method</strong></th>
+<th><strong>Objective</strong>   <strong>Precision</strong></th>
+<th><strong>Subjective</strong>   <strong>Precision</strong></th>
+<th><strong>Objective</strong>   <strong>Recall</strong></th>
+<th><strong>Subjective</strong>   <strong>Recall</strong></th>
+<th><strong>Accuracy</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Naive Bayes</td>
+<td>0.68</td>
+<td>0.75</td>
+<td>0.97</td>
+<td>0.18</td>
+<td>0.689</td>
+</tr>
+
+<tr>
+<td>Logistic Regression</td>
+<td>0.73</td>
+<td>0.68</td>
+<td>0.89</td>
+<td>0.41</td>
+<td>0.722</td>
+</tr>
+
+<tr>
+<td>TextCNN</td>
+<td>0.73</td>
+<td>0.58</td>
+<td>0.82</td>
+<td>0.46</td>
+<td>0.691</td>
+</tr>
+
+<tr>
+<td>Bi-LSTM</td>
+<td>0.74</td>
+<td>0.60</td>
+<td>0.82</td>
+<td>0.47</td>
+<td>0.699</td>
+</tr>
+
+<tr>
+<td>BERT</td>
+<td>0.79</td>
+<td>0.65</td>
+<td>0.82</td>
+<td>0.61</td>
+<td><strong>0.746</strong></td>
+</tr>
+</tbody>
+</table>
+
+<p><img src="../../static/images/blog/2w.png" alt="" /></p>
+
+<h3 id="7w-dataset">7W dataset</h3>
+
+<table>
+<thead>
+<tr>
+<th><strong>Method</strong></th>
+<th><strong>Objective</strong>   <strong>Precision</strong></th>
+<th><strong>Subjective</strong>   <strong>Precision</strong></th>
+<th><strong>Objective</strong>   <strong>Recall</strong></th>
+<th><strong>Subjective</strong>   <strong>Recall</strong></th>
+<th><strong>Accuracy</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Naive Bayes</td>
+<td>0.69</td>
+<td>0.62</td>
+<td>0.95</td>
+<td>0.15</td>
+<td>0.686</td>
+</tr>
+
+<tr>
+<td>Logistic Regression</td>
+<td>0.71</td>
+<td>0.57</td>
+<td>0.89</td>
+<td>0.28</td>
+<td>0.691</td>
+</tr>
+
+<tr>
+<td>TextCNN</td>
+<td>0.71</td>
+<td>0.58</td>
+<td>0.91</td>
+<td>0.25</td>
+<td>0.690</td>
+</tr>
+
+<tr>
+<td>Bi-LSTM</td>
+<td>0.72</td>
+<td>0.52</td>
+<td>0.83</td>
+<td>0.37</td>
+<td>0.675</td>
+</tr>
+
+<tr>
+<td>BERT</td>
+<td>0.74</td>
+<td>0.57</td>
+<td>0.85</td>
+<td>0.39</td>
+<td><strong>0.700</strong></td>
+</tr>
+</tbody>
+</table>
+
+<p><img src="../../static/images/blog/7w.png" alt="" /></p>
+
+            </div>
+        </div>
+    </div>
+</section>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+        </div><!-- Footer Start -->
+<footer id="footer" class="bg-one">
+    <div class="top-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <h3>People</h3>
+                    <p>4I Lab is an innovative laboratory in Tsinghua-Berkley Shenzhen Institute</p>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <h3>More Info</h3>
+                    <ul class="zero-padding">
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/people">people</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/publication">publication</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/video">video</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/contact">contact</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <h3>Quicklinks</h3>
+                    <ul class="zero-padding">
+                        
+                        <li>
+                            <a href="https://www.tbsi.edu.cn/">Official website</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <h5>Copyright 2019. All rights reserved.</h5>
+        <h6>Design and Developed by 4I Lab Students
+            <br>Get More
+            <a href="#" target="_blank">4I Lab</a>
+        </h6>
+    </div>
+</footer>
+<!-- end footer -->
+
+
+<!-- Essential Scripts -->
+
+<!-- jQuery -->
+<script src="https://mace-cream.github.io/plugins/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="https://mace-cream.github.io/plugins/bootstrap/dist/js/popper.min.js"></script>
+<script src="https://mace-cream.github.io/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- Parallax -->
+<script src="https://mace-cream.github.io/plugins/parallax/jquery.parallax-1.1.3.js"></script>
+<!-- lightbox -->
+<script src="https://mace-cream.github.io/plugins/lightbox2/dist/js/lightbox.min.js"></script>
+<!-- Slick Carousel -->
+<script src="https://mace-cream.github.io/plugins/slick-carousel/slick/slick.min.js"></script>
+<!-- Portfolio Filtering -->
+<script src="https://mace-cream.github.io/plugins/filterzr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll js -->
+<script src="https://mace-cream.github.io/plugins/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+<!-- Main Script -->
+
+<script src="https://mace-cream.github.io/js/script.min.js"></script>
+</body>
+</html>

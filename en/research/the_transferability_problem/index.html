@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Navigator Hugo Template">
+<meta name="author" content="Themefisher.com">
+<meta name="generator" content="Hugo 0.58.3" />
+
+<title>4I Lab</title>
+
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="https://mace-cream.github.io/images/favicon.ico" />
+
+<!-- Stylesheets -->
+<!-- Themefisher Icon font -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/themefisher-font/style.css">
+<!-- bootstrap.min css -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/bootstrap/dist/css/bootstrap.min.css">
+<!-- Lightbox.min css -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/lightbox2/dist/css/lightbox.min.css">
+<!-- Slick Carousel -->
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/slick-carousel/slick/slick.css">
+<link rel="stylesheet" href="https://mace-cream.github.io/plugins/slick-carousel/slick/slick-theme.css">
+<!-- Main Stylesheet -->
+
+
+<link rel="stylesheet" href="https://mace-cream.github.io/css/style.min.css" integrity="" media="screen">
+
+</head>
+<body id="body">
+        <!-- Start Preloader -->
+<div id="preloader">
+    <div class="preloader">
+        <div class="sk-circle1 sk-child"></div>
+        <div class="sk-circle2 sk-child"></div>
+        <div class="sk-circle3 sk-child"></div>
+        <div class="sk-circle4 sk-child"></div>
+        <div class="sk-circle5 sk-child"></div>
+        <div class="sk-circle6 sk-child"></div>
+        <div class="sk-circle7 sk-child"></div>
+        <div class="sk-circle8 sk-child"></div>
+        <div class="sk-circle9 sk-child"></div>
+        <div class="sk-circle10 sk-child"></div>
+        <div class="sk-circle11 sk-child"></div>
+        <div class="sk-circle12 sk-child"></div>
+    </div>
+</div>
+<!-- End Preloader --><!-- Fixed Navigation -->
+
+
+<section class="header navigation">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-expand-md">
+                    <a class="navbar-brand" href="https://mace-cream.github.io">
+                        <img src="https://mace-cream.github.io/images/logo.svg" alt="logo" height="60px">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="tf-ion-android-menu"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navigation">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="https://mace-cream.github.io">Home</a>
+                            </li>
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/people">people</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/research">research</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/publication">publication</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/news">news</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/dataset">dataset</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/video">video</a>
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://mace-cream.github.io/en/contact">contact</a>
+                            </li>
+                            
+                            
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section><div id="content">
+
+<section class="blog-single section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <img src="https://mace-cream.github.io/images/blog/tl.jpg" class="w-100 mb-3" alt="Post-Image">
+                <h2>The Transferability Problem</h2>
+                <div class="post-meta mb-5">
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <span>By</span>
+                            Admin
+                        </li>
+                        <li class="list-inline-item">
+                            <span>at</span>
+                            <span>September 19, 2019</span>
+                        </li>
+                    </ul>
+                </div>
+                
+
+<h3 id="introduction">Introduction</h3>
+
+<p>Task transfer learning is a learning paradigm that leverages the learned representation from a source task to help training a related target task. It is a common practice in computer vision, such as using the features of a pre-trained ImageNet 1000-class classification model on a different image recognition task by fine-tuning it with the new data. This technique has demonstrated superior performance than training without the transferred feature in many fields, such as computer vision, NLP and information systems.
+<img src="../../../images/blog/tl-trans-problem.png" alt="Illustration of task transfer learning from ImageNet-1000 to Cifar-100" />
+<em>Fig. 1: Illustration of task transfer learning from ImageNet-1000 to Cifar-100</em></p>
+
+<p>However, there lacks an efficient and theoretically meaningful way to determining task transferability, i.e. to what extent transferring from the source task can help the learning of the target. Such a metric is especially important for designing effective transfer learning strategies for multiple tasks, as it provides a guarantee on good transfer performance between the source and the target tasks.</p>
+
+<p>In our research, we developed a transferability metric using concepts from statistics and local information geometry. Experiments on both image-based 3D scene understanding tasks and NLP tasks showed that our metric not only correctly characterizes transfer performance, it is also highly effective in practice for neural network model selection. Based on this result, we are currently developing a multi-task curriculum learning algorithm that optimizes the order in which different tasks should be learned, and the direction of knowledge transfer to reduce the learning cost of a task collection.</p>
+
+<p><img src="../../../images/blog/tl-cifar-100.png" alt="Figure: The task transferability problem" />
+<em>Fig.2: The task transferability problem</em></p>
+
+            </div>
+        </div>
+    </div>
+</section>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+        </div><!-- Footer Start -->
+<footer id="footer" class="bg-one">
+    <div class="top-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <h3>People</h3>
+                    <p>4I Lab is an innovative laboratory in Tsinghua-Berkley Shenzhen Institute</p>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <h3>More Info</h3>
+                    <ul class="zero-padding">
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/people">people</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/publication">publication</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/video">video</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://mace-cream.github.io/en/contact">contact</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <h3>Quicklinks</h3>
+                    <ul class="zero-padding">
+                        
+                        <li>
+                            <a href="https://www.tbsi.edu.cn/">Official website</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <h5>Copyright 2019. All rights reserved.</h5>
+        <h6>Design and Developed by 4I Lab Students
+            <br>Get More
+            <a href="#" target="_blank">4I Lab</a>
+        </h6>
+    </div>
+</footer>
+<!-- end footer -->
+
+
+<!-- Essential Scripts -->
+
+<!-- jQuery -->
+<script src="https://mace-cream.github.io/plugins/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="https://mace-cream.github.io/plugins/bootstrap/dist/js/popper.min.js"></script>
+<script src="https://mace-cream.github.io/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- Parallax -->
+<script src="https://mace-cream.github.io/plugins/parallax/jquery.parallax-1.1.3.js"></script>
+<!-- lightbox -->
+<script src="https://mace-cream.github.io/plugins/lightbox2/dist/js/lightbox.min.js"></script>
+<!-- Slick Carousel -->
+<script src="https://mace-cream.github.io/plugins/slick-carousel/slick/slick.min.js"></script>
+<!-- Portfolio Filtering -->
+<script src="https://mace-cream.github.io/plugins/filterzr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll js -->
+<script src="https://mace-cream.github.io/plugins/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+<!-- Main Script -->
+
+<script src="https://mace-cream.github.io/js/script.min.js"></script>
+</body>
+</html>

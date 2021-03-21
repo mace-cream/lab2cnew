@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication on 4I Lab</title>
+    <link>https://mace-cream.github.io/en/publication/</link>
+    <description>Recent content in Publication on 4I Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 14:53:13 +0600</lastBuildDate>
+    
+	<atom:link href="https://mace-cream.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mace-cream.github.io/en/publication/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/publication/ai/</guid>
+      <description>Artificial Intelligence AI Theory [1] The Geometric Structure of Generalized Softmax Learning
+Xiangxiang Xu and Shao-Lun Huang and Lizhong Zheng and Lin Zhang. In IEEE Information Theory Workshop, ITW 2018, Guangzhou, China, November 25-29, 2018. 2018. Link [2] An Information Theoretic Interpretation to Deep Neural Networks
+Shao-Lun Huang and Xiangxiang Xu and Lizhong Zheng and Gregory W. Wornell. In IEEE International Symposium on Information Theory, ISIT 2019, Paris, France, July 7-12, 2019.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mace-cream.github.io/en/publication/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mace-cream.github.io/en/publication/iot/</guid>
+      <description>Internet of Things IoT Environment [1] Delay Effect in Mobile Sensing System for Urban Air Pollution Monitoring
+Liu, Xinyu and Chen, Xinlei and Xu, Xiangxiang and Mai, Enhan and Noh, Hae Young and Zhang, Pei and Zhang, Lin. In Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems. 2017. [2] Individualized Calibration of Industrial-Grade Gas Sensors in Air Quality Sensing System
+Liu, Xinyu and Xu, Xiangxiang and Chen, Xinlei and Mai, Enhan and Noh, Hae Young and Zhang, Pei and Zhang, Lin.</description>
+    </item>
+    
+  </channel>
+</rss>
